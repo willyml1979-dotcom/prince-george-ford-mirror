@@ -1,7 +1,7 @@
 {
   "dealership": "Prince George Ford",
-  "generated_at": "2026-10-25T15:26:12",
-  "vehicle_count": 480,
+  "generated_at": "2026-10-25T15:31:38",
+  "vehicle_count": 472,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -2029,17 +2029,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Ford Bronco Sport Outer Banks | 4x4 | Moonroof | Sasquatch PKG",
-      "vin": "3FMCR9CN7TRF13700",
-      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/new/811674403aea.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "Bronco Sport",
-      "condition": "new",
-      "price": 48783.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Ford Bronco Sport Outer Banks | 4x4 | Moonroof | Remote Start",
       "vin": "3FMCR9CN3TRF11720",
       "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/new/624a400bc58e.html",
@@ -2656,17 +2645,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Ford F-150 Tremor | 145 | 402A | Pro Access Tailgate | NAV",
-      "vin": "1FTFW4L83TFA75049",
-      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/new/b637369b5a0d.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "F-150",
-      "condition": "new",
-      "price": 85353.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Ford F-150 XLT | 157 | 302A | Tailgate Step | Backup Camera",
       "vin": "1FTFW3L81TFB09855",
       "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/new/3be1254d724f.html",
@@ -2921,17 +2899,6 @@
     },
     {
       "name": "2026 Ford F-150 Tremor | 145 | 402A | Pro Access Tailgate",
-      "vin": "1FTFW4L87TFB48343",
-      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/new/fbbeacb87039.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "F-150",
-      "condition": "new",
-      "price": 86873.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Ford F-150 Tremor | 145 | 402A | Pro Access Tailgate",
       "vin": "1FTFW4L86TFB50830",
       "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/new/3f88f619c1fb.html",
       "year": 2026,
@@ -2961,17 +2928,6 @@
       "model": "F-150",
       "condition": "new",
       "price": 75333.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Ford F-150 Tremor | 145 | 401A | Heated Seats | Backup Camera",
-      "vin": "1FTFW4L84TFB50714",
-      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/new/b8440c90aba1.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "F-150",
-      "condition": "new",
-      "price": 73583.0,
       "price_currency": "CAD"
     },
     {
@@ -4042,17 +3998,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Ford Maverick XLT | AWD | 301A | Hybrid | Backup Camera",
-      "vin": "3FTTW8J36TRB18920",
-      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/new/844b64517505.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "Maverick",
-      "condition": "new",
-      "price": 42053.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Ford Maverick XLT | AWD | 302A | Heated Seats | Remote Start",
       "vin": "3FTTW8JA7TRB15913",
       "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/new/180ea7552299.html",
@@ -4072,17 +4017,6 @@
       "model": "Maverick",
       "condition": "new",
       "price": 53803.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Ford Maverick Tremor | AWD | 602A | Moonroof | Heated Seats",
-      "vin": "3FTTW8NA1TRB29073",
-      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/new/85e3bc619781.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "Maverick",
-      "condition": "new",
-      "price": 51603.0,
       "price_currency": "CAD"
     },
     {
@@ -4193,17 +4127,6 @@
       "model": "Maverick",
       "condition": "new",
       "price": 46753.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Ford Maverick XLT | AWD | 302A | Heated Seats | Bedliner",
-      "vin": "3FTTW8JA1TRA49844",
-      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/new/4e4195b05867.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "Maverick",
-      "condition": "new",
-      "price": 44903.0,
       "price_currency": "CAD"
     },
     {
@@ -4456,7 +4379,7 @@
       "make": "Ford",
       "model": "Ranger",
       "condition": "new",
-      "price": 50113.0,
+      "price": 49708.0,
       "price_currency": "CAD"
     },
     {
@@ -4467,7 +4390,7 @@
       "make": "Ford",
       "model": "Ranger",
       "condition": "new",
-      "price": 53402.0,
+      "price": 53458.0,
       "price_currency": "CAD"
     },
     {
@@ -4478,18 +4401,18 @@
       "make": "Ford",
       "model": "Ranger",
       "condition": "new",
-      "price": 58627.0,
+      "price": 57113.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Ford Ranger Lariat | 129 | 500A | Moonroof | Remote Start",
+      "name": "2026 Ford Ranger Lariat | 129 | 500A | Remote Start",
       "vin": "1FTER4KH4TLE29554",
       "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/new/af14c46789d1.html",
       "year": 2026,
       "make": "Ford",
       "model": "Ranger",
       "condition": "new",
-      "price": 60761.0,
+      "price": 60738.0,
       "price_currency": "CAD"
     },
     {
@@ -4500,7 +4423,7 @@
       "make": "Ford",
       "model": "Ranger",
       "condition": "new",
-      "price": 50685.0,
+      "price": 50358.0,
       "price_currency": "CAD"
     },
     {
@@ -4511,7 +4434,7 @@
       "make": "Ford",
       "model": "Ranger",
       "condition": "new",
-      "price": 60704.0,
+      "price": 59473.0,
       "price_currency": "CAD"
     },
     {
@@ -4522,18 +4445,7 @@
       "make": "Ford",
       "model": "Ranger",
       "condition": "new",
-      "price": 56062.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Ford Ranger LARIAT | 129 | 500A | Heated Seats | Navigation",
-      "vin": "1FTER4KH0TLE45055",
-      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/new/dda164996b9a.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "Ranger",
-      "condition": "new",
-      "price": 60066.0,
+      "price": 56468.0,
       "price_currency": "CAD"
     },
     {
@@ -4544,18 +4456,18 @@
       "make": "Ford",
       "model": "Ranger",
       "condition": "new",
-      "price": 52335.0,
+      "price": 54658.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Ford Ranger LARIAT | 129 | 500A | Moonroof | Bedliner | NAV",
+      "name": "2026 Ford Ranger LARIAT | 129 | 500A | Bedliner | NAV",
       "vin": "1FTER4KP1TLE68805",
       "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/new/90e2230ca54b.html",
       "year": 2026,
       "make": "Ford",
       "model": "Ranger",
       "condition": "new",
-      "price": 71288.0,
+      "price": 65288.0,
       "price_currency": "CAD"
     },
     {
@@ -4720,7 +4632,7 @@
       "make": "Ford",
       "model": "Explorer",
       "condition": "new",
-      "price": 63023.0,
+      "price": 61023.0,
       "price_currency": "CAD"
     },
     {
@@ -4731,7 +4643,7 @@
       "make": "Ford",
       "model": "Explorer",
       "condition": "new",
-      "price": 70673.0,
+      "price": 68673.0,
       "price_currency": "CAD"
     },
     {
@@ -4742,7 +4654,7 @@
       "make": "Ford",
       "model": "Explorer",
       "condition": "new",
-      "price": 67453.0,
+      "price": 65453.0,
       "price_currency": "CAD"
     },
     {
