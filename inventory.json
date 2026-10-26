@@ -1,6 +1,6 @@
 {
   "dealership": "Prince George Ford",
-  "generated_at": "2026-10-26T01:03:24",
+  "generated_at": "2026-10-26T09:24:40",
   "vehicle_count": 472,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -123,7 +123,7 @@
       "make": "Hyundai",
       "model": "Veloster",
       "condition": "used",
-      "price": 8311.0,
+      "price": 7911.0,
       "price_currency": "CAD"
     },
     {
@@ -145,7 +145,7 @@
       "make": "Subaru",
       "model": "Forester",
       "condition": "used",
-      "price": 13811.0,
+      "price": 12911.0,
       "price_currency": "CAD"
     },
     {
@@ -178,7 +178,7 @@
       "make": "Kia",
       "model": "Forte",
       "condition": "used",
-      "price": 7511.0,
+      "price": 7211.0,
       "price_currency": "CAD"
     },
     {
@@ -189,7 +189,7 @@
       "make": "Land",
       "model": "Rover Range Rover Evoque HSE",
       "condition": "used",
-      "price": 16295.0,
+      "price": 14911.0,
       "price_currency": "CAD"
     },
     {
@@ -200,7 +200,7 @@
       "make": "Nissan",
       "model": "Murano",
       "condition": "used",
-      "price": 15689.0,
+      "price": 15599.0,
       "price_currency": "CAD"
     },
     {
@@ -211,7 +211,7 @@
       "make": "Toyota",
       "model": "Corolla",
       "condition": "used",
-      "price": 18699.0,
+      "price": 18657.0,
       "price_currency": "CAD"
     },
     {
@@ -233,7 +233,7 @@
       "make": "Ford",
       "model": "Explorer",
       "condition": "used",
-      "price": 16811.0,
+      "price": 15511.0,
       "price_currency": "CAD"
     },
     {
@@ -244,7 +244,7 @@
       "make": "Ford",
       "model": "Explorer",
       "condition": "used",
-      "price": 18499.0,
+      "price": 17999.0,
       "price_currency": "CAD"
     },
     {
@@ -328,7 +328,7 @@
       "make": "Ford",
       "model": "Edge",
       "condition": "used",
-      "price": 20999.0,
+      "price": 20714.0,
       "price_currency": "CAD"
     },
     {
@@ -383,7 +383,7 @@
       "make": "Kia",
       "model": "Forte",
       "condition": "used",
-      "price": 8811.0,
+      "price": 7911.0,
       "price_currency": "CAD"
     },
     {
@@ -425,7 +425,7 @@
       "make": "Ford",
       "model": "F-350",
       "condition": "used",
-      "price": 49688.0,
+      "price": 49599.0,
       "price_currency": "CAD"
     },
     {
@@ -1849,7 +1849,7 @@
       "make": "Mazda",
       "model": "CX-50",
       "condition": "used",
-      "price": 41995.0,
+      "price": 41899.0,
       "price_currency": "CAD"
     },
     {
@@ -1893,7 +1893,7 @@
       "make": "Ford",
       "model": "F-150",
       "condition": "used",
-      "price": 78897.0,
+      "price": 77499.0,
       "price_currency": "CAD"
     },
     {
@@ -1915,7 +1915,7 @@
       "make": "Ford",
       "model": "Mustang",
       "condition": "used",
-      "price": 37889.0,
+      "price": 36957.0,
       "price_currency": "CAD"
     },
     {
