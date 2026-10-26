@@ -1,6 +1,6 @@
 {
   "dealership": "Prince George Ford",
-  "generated_at": "2026-10-26T00:57:19",
+  "generated_at": "2026-10-26T01:03:24",
   "vehicle_count": 472,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -4665,7 +4665,7 @@
       "make": "Ford",
       "model": "Explorer",
       "condition": "new",
-      "price": 68003.0,
+      "price": 66003.0,
       "price_currency": "CAD"
     },
     {
@@ -4676,7 +4676,7 @@
       "make": "Ford",
       "model": "Explorer",
       "condition": "new",
-      "price": 68203.0,
+      "price": 66203.0,
       "price_currency": "CAD"
     },
     {
@@ -4687,7 +4687,7 @@
       "make": "Ford",
       "model": "Explorer",
       "condition": "new",
-      "price": 65203.0,
+      "price": 63203.0,
       "price_currency": "CAD"
     },
     {
@@ -4709,7 +4709,7 @@
       "make": "Ford",
       "model": "Explorer",
       "condition": "new",
-      "price": 71703.0,
+      "price": 69703.0,
       "price_currency": "CAD"
     },
     {
@@ -4720,7 +4720,7 @@
       "make": "Ford",
       "model": "Explorer",
       "condition": "new",
-      "price": 68203.0,
+      "price": 66203.0,
       "price_currency": "CAD"
     },
     {
@@ -4731,7 +4731,7 @@
       "make": "Ford",
       "model": "Explorer",
       "condition": "new",
-      "price": 71353.0,
+      "price": 69353.0,
       "price_currency": "CAD"
     },
     {
@@ -4742,7 +4742,7 @@
       "make": "Ford",
       "model": "Explorer",
       "condition": "new",
-      "price": 71153.0,
+      "price": 69153.0,
       "price_currency": "CAD"
     },
     {
@@ -5050,7 +5050,7 @@
       "make": "Ford",
       "model": "F-350",
       "condition": "new",
-      "price": 136532.0,
+      "price": 128532.0,
       "price_currency": "CAD"
     },
     {
@@ -5061,18 +5061,18 @@
       "make": "Ford",
       "model": "F-350",
       "condition": "new",
-      "price": 136532.0,
+      "price": 128532.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Ford F-350 Super Duty Platinum | 176 | Moonroof | Heated/Cooled Seats",
+      "name": "2027 Ford F-350 Super Duty Platinum",
       "vin": "1FT8W3BM5VEC30436",
       "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/new/0c0ed84ee459.html",
       "year": 2027,
       "make": "Ford",
       "model": "F-350",
       "condition": "new",
-      "price": 137383.0,
+      "price": 129383.0,
       "price_currency": "CAD"
     },
     {
@@ -5116,7 +5116,7 @@
       "make": "Ford",
       "model": "F-350",
       "condition": "new",
-      "price": 136172.0,
+      "price": 128172.0,
       "price_currency": "CAD"
     },
     {
@@ -5127,7 +5127,7 @@
       "make": "Ford",
       "model": "F-350",
       "condition": "new",
-      "price": 136172.0,
+      "price": 128172.0,
       "price_currency": "CAD"
     },
     {
@@ -5138,7 +5138,7 @@
       "make": "Ford",
       "model": "F-350",
       "condition": "new",
-      "price": 140342.0,
+      "price": 132342.0,
       "price_currency": "CAD"
     },
     {
