@@ -1,6 +1,6 @@
 {
   "dealership": "Prince George Ford",
-  "generated_at": "2026-10-26T09:24:40",
+  "generated_at": "2026-10-26T09:31:59",
   "vehicle_count": 472,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -1926,7 +1926,7 @@
       "make": "Ford",
       "model": "Bronco Sport",
       "condition": "new",
-      "price": 36248.0,
+      "price": 38248.0,
       "price_currency": "CAD"
     },
     {
@@ -1937,7 +1937,7 @@
       "make": "Ford",
       "model": "Bronco Sport",
       "condition": "new",
-      "price": 38738.0,
+      "price": 40738.0,
       "price_currency": "CAD"
     },
     {
@@ -1948,7 +1948,7 @@
       "make": "Ford",
       "model": "Bronco Sport",
       "condition": "new",
-      "price": 44643.0,
+      "price": 47643.0,
       "price_currency": "CAD"
     },
     {
@@ -1959,7 +1959,7 @@
       "make": "Ford",
       "model": "Bronco Sport",
       "condition": "new",
-      "price": 45443.0,
+      "price": 48443.0,
       "price_currency": "CAD"
     },
     {
@@ -1970,7 +1970,7 @@
       "make": "Ford",
       "model": "Bronco Sport",
       "condition": "new",
-      "price": 39343.0,
+      "price": 42343.0,
       "price_currency": "CAD"
     },
     {
@@ -1981,7 +1981,7 @@
       "make": "Ford",
       "model": "Bronco Sport",
       "condition": "new",
-      "price": 44593.0,
+      "price": 47593.0,
       "price_currency": "CAD"
     },
     {
