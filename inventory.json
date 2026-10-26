@@ -1,6 +1,6 @@
 {
   "dealership": "Prince George Ford",
-  "generated_at": "2026-10-25T15:31:38",
+  "generated_at": "2026-10-26T00:57:19",
   "vehicle_count": 472,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -1541,7 +1541,7 @@
       "make": "Ford",
       "model": "F-150",
       "condition": "used",
-      "price": 58499.0,
+      "price": 58297.0,
       "price_currency": "CAD"
     },
     {
@@ -1574,7 +1574,7 @@
       "make": "Ford",
       "model": "F-150",
       "condition": "used",
-      "price": 61558.0,
+      "price": 61499.0,
       "price_currency": "CAD"
     },
     {
@@ -1585,7 +1585,7 @@
       "make": "Ford",
       "model": "F-150",
       "condition": "used",
-      "price": 64699.0,
+      "price": 64599.0,
       "price_currency": "CAD"
     },
     {
@@ -1596,7 +1596,7 @@
       "make": "Ford",
       "model": "F-150",
       "condition": "used",
-      "price": 63999.0,
+      "price": 63899.0,
       "price_currency": "CAD"
     },
     {
@@ -1629,7 +1629,7 @@
       "make": "Ford",
       "model": "F-150",
       "condition": "used",
-      "price": 93499.0,
+      "price": 93599.0,
       "price_currency": "CAD"
     },
     {
@@ -1640,7 +1640,7 @@
       "make": "Ford",
       "model": "F-150",
       "condition": "used",
-      "price": 54799.0,
+      "price": 54757.0,
       "price_currency": "CAD"
     },
     {
@@ -1662,7 +1662,7 @@
       "make": "Ford",
       "model": "Maverick",
       "condition": "used",
-      "price": 37999.0,
+      "price": 35957.0,
       "price_currency": "CAD"
     },
     {
@@ -1721,25 +1721,25 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Ford Escape Active | AWD | Incoming Unit | Heated Seats/Wheel",
+      "name": "2025 Ford Escape Active | AWD | Remote Start | Heated Seats/Wheel",
       "vin": "1FMCU9GN1SUB09727",
       "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/used/8ee9da8edbb3.html",
       "year": 2025,
       "make": "Ford",
       "model": "Escape",
       "condition": "used",
-      "price": 28877.0,
+      "price": 28799.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Ford Escape Active | AWD | Incoming Unit | Heated Seats/Wheel",
+      "name": "2025 Ford Escape Active | AWD | Remote Start | Heated Seats/Wheel",
       "vin": "1FMCU9GN7SUB07271",
       "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/used/2359f32b7b6d.html",
       "year": 2025,
       "make": "Ford",
       "model": "Escape",
       "condition": "used",
-      "price": 28889.0,
+      "price": 28858.0,
       "price_currency": "CAD"
     },
     {
@@ -1750,7 +1750,7 @@
       "make": "Ford",
       "model": "Explorer",
       "condition": "used",
-      "price": 47884.0,
+      "price": 47799.0,
       "price_currency": "CAD"
     },
     {
@@ -1761,7 +1761,7 @@
       "make": "Ford",
       "model": "Explorer",
       "condition": "used",
-      "price": 45995.0,
+      "price": 45957.0,
       "price_currency": "CAD"
     },
     {
@@ -1772,7 +1772,7 @@
       "make": "Ford",
       "model": "F-150",
       "condition": "used",
-      "price": 48879.0,
+      "price": 48799.0,
       "price_currency": "CAD"
     },
     {
@@ -1783,7 +1783,7 @@
       "make": "Ford",
       "model": "F-150",
       "condition": "used",
-      "price": 50899.0,
+      "price": 50595.0,
       "price_currency": "CAD"
     },
     {
@@ -1794,7 +1794,7 @@
       "make": "Ford",
       "model": "F-350",
       "condition": "used",
-      "price": 67544.0,
+      "price": 67597.0,
       "price_currency": "CAD"
     },
     {
@@ -1827,7 +1827,7 @@
       "make": "Hyundai",
       "model": "Tucson",
       "condition": "used",
-      "price": 30779.0,
+      "price": 30699.0,
       "price_currency": "CAD"
     },
     {
