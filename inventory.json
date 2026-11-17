@@ -1,7 +1,7 @@
 {
   "dealership": "Prince George Ford",
-  "generated_at": "2026-11-17T11:45:33",
-  "vehicle_count": 472,
+  "generated_at": "2026-11-17T12:06:23",
+  "vehicle_count": 480,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -1911,17 +1911,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Ford Bronco Sport Big Bend | 4WD | Heated Seats | Backup Camera",
-      "vin": "3FMCR9BN2TRE03834",
-      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/new/d4999f4046c5.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "Bronco Sport",
-      "condition": "new",
-      "price": 38248.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Ford Bronco Sport Big Bend | 200A | AWD | Backup Camera | SYNC",
       "vin": "3FMCR9BN8TRE85665",
       "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/new/7e005d528d28.html",
@@ -2087,17 +2076,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Ford Bronco Sport Big Bend | 4X4 | 200A | Backup Camera | SYNC 4",
-      "vin": "3FMCR9BN7TRF24620",
-      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/new/62ae114263ed.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "Bronco Sport",
-      "condition": "new",
-      "price": 38823.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Ford Bronco Sport Outer Banks | 4x4 | Moonroof | Remote Start",
       "vin": "3FMCR9CNXTRF37554",
       "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/new/5cdeb5846adf.html",
@@ -2117,28 +2095,6 @@
       "model": "Bronco Sport",
       "condition": "new",
       "price": 45143.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Ford Bronco Sport Outer Banks | 4X4 | 300A | 360 Cam | Navigation",
-      "vin": "3FMCR9CN0TRF33190",
-      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/new/a9b859fe449c.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "Bronco Sport",
-      "condition": "new",
-      "price": 43143.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Ford Bronco Sport Outer Banks | 300A | 4X4 | Remote Start | 360 Cam",
-      "vin": "3FMCR9CN7TRF31792",
-      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/new/6e98b94a0da1.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "Bronco Sport",
-      "condition": "new",
-      "price": 43143.0,
       "price_currency": "CAD"
     },
     {
@@ -2164,17 +2120,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Ford Bronco Sport Big Bend | 4X4 | 200A | Backup Camera",
-      "vin": "3FMCR9BN9TRF24313",
-      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/new/d43eb9b41dc7.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "Bronco Sport",
-      "condition": "new",
-      "price": 40098.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Ford Bronco Sport Big Bend | 4WD | 200A | Heated Seats | Backup Cam",
       "vin": "3FMCR9BN8TRF29891",
       "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/new/7e94bad2676e.html",
@@ -2194,17 +2139,6 @@
       "model": "Bronco Sport",
       "condition": "new",
       "price": 40168.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Ford Bronco Sport Big Bend | 4X4 | 200A | Backup Camera",
-      "vin": "3FMCR9BN6TRF41764",
-      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/new/9f5c29b6a2cf.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "Bronco Sport",
-      "condition": "new",
-      "price": 37818.0,
       "price_currency": "CAD"
     },
     {
@@ -2293,17 +2227,6 @@
       "model": "Bronco",
       "condition": "new",
       "price": 72969.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Ford Bronco Badlands | 4x4 | Remote Start | Heated Seats",
-      "vin": "1FMEE9BP5TLB21787",
-      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/new/79e53ae3804d.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "Bronco",
-      "condition": "new",
-      "price": 75994.0,
       "price_currency": "CAD"
     },
     {
@@ -2428,17 +2351,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Ford Explorer Platinum | 4WD | Seats 6 | Heated Seats/Wheel",
-      "vin": "1FMUK8HHXTGB47017",
-      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/new/e5e43bba07d0.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "Explorer",
-      "condition": "new",
-      "price": 64838.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Ford Explorer Active | 4WD | 6 Seater | Moonroof | Remote Start",
       "vin": "1FMUK8DHXTGB38095",
       "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/new/c6ac442defa8.html",
@@ -2447,17 +2359,6 @@
       "model": "Explorer",
       "condition": "new",
       "price": 57038.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Ford Explorer Platinum | 4WD | Seats 6 | Memory Seat | 360 Cam",
-      "vin": "1FMUK8HH1TGB37136",
-      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/new/19353bb2c49b.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "Explorer",
-      "condition": "new",
-      "price": 65438.0,
       "price_currency": "CAD"
     },
     {
@@ -2516,28 +2417,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Ford Explorer Platinum | 4WD | Seats 6 | Memory Seat | 360 Cam",
-      "vin": "1FMUK8HH2TGC48164",
-      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/new/2bd4622df9d5.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "Explorer",
-      "condition": "new",
-      "price": 66983.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Ford Explorer ST-Line | 4WD | 3rd Row | Moonroof | Backup Camera",
-      "vin": "1FMUK8KH5TGC34767",
-      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/new/a2f4469fa0c1.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "Explorer",
-      "condition": "new",
-      "price": 62538.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Ford Explorer Active | 4WD | 3rd Row | Moonroof | Seats 6",
       "vin": "1FMUK8DH5TGC47936",
       "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/new/d636156274cc.html",
@@ -2593,14 +2472,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Ford Explorer Tremor | 4WD | 6 Seater | Heated/Cooled Seats",
-      "vin": "1FMUK8JH4TGC09277",
-      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/new/376e8e7b8590.html",
+      "name": "2026 Ford F-150 XLT | 157 | 302A | Tailgate Step | Heated Seats",
+      "vin": "1FTFW3L88TKD38542",
+      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/new/51b3732faaa6.html",
       "year": 2026,
       "make": "Ford",
-      "model": "Explorer",
+      "model": "F-150",
       "condition": "new",
-      "price": 60195.0,
+      "price": 73883.0,
       "price_currency": "CAD"
     },
     {
@@ -2648,17 +2527,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Ford F-150 Tremor | 145 | 401A | Heated Seats | Backup Camera",
-      "vin": "1FTFW4L85TFB01747",
-      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/new/3df9a4ba9ddf.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "F-150",
-      "condition": "new",
-      "price": 73583.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Ford F-150 STX | 145 | 201A | Block Heater | Backup Camera",
       "vin": "1FTEW2LP4TKE18661",
       "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/new/d941e154115d.html",
@@ -2677,7 +2545,7 @@
       "make": "Ford",
       "model": "F-150",
       "condition": "new",
-      "price": 56468.0,
+      "price": 59468.0,
       "price_currency": "CAD"
     },
     {
@@ -2688,7 +2556,7 @@
       "make": "Ford",
       "model": "F-150",
       "condition": "new",
-      "price": 62423.0,
+      "price": 65423.0,
       "price_currency": "CAD"
     },
     {
@@ -2699,7 +2567,7 @@
       "make": "Ford",
       "model": "F-150",
       "condition": "new",
-      "price": 55868.0,
+      "price": 58868.0,
       "price_currency": "CAD"
     },
     {
@@ -2710,7 +2578,7 @@
       "make": "Ford",
       "model": "F-150",
       "condition": "new",
-      "price": 56928.0,
+      "price": 59928.0,
       "price_currency": "CAD"
     },
     {
@@ -2721,7 +2589,7 @@
       "make": "Ford",
       "model": "F-150",
       "condition": "new",
-      "price": 82648.0,
+      "price": 85648.0,
       "price_currency": "CAD"
     },
     {
@@ -2732,7 +2600,7 @@
       "make": "Ford",
       "model": "F-150",
       "condition": "new",
-      "price": 84268.0,
+      "price": 87268.0,
       "price_currency": "CAD"
     },
     {
@@ -2743,7 +2611,7 @@
       "make": "Ford",
       "model": "F-150",
       "condition": "new",
-      "price": 85268.0,
+      "price": 88268.0,
       "price_currency": "CAD"
     },
     {
@@ -2754,18 +2622,7 @@
       "make": "Ford",
       "model": "F-150",
       "condition": "new",
-      "price": 84268.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Ford F-150 XLT | 157 | 302A | Heated Seats | Block Heater",
-      "vin": "1FTFW3L8XTKE40084",
-      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/new/8453b1d3c690.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "F-150",
-      "condition": "new",
-      "price": 70268.0,
+      "price": 87268.0,
       "price_currency": "CAD"
     },
     {
@@ -2776,7 +2633,7 @@
       "make": "Ford",
       "model": "F-150",
       "condition": "new",
-      "price": 68613.0,
+      "price": 71613.0,
       "price_currency": "CAD"
     },
     {
@@ -2787,7 +2644,7 @@
       "make": "Ford",
       "model": "F-150",
       "condition": "new",
-      "price": 84268.0,
+      "price": 87268.0,
       "price_currency": "CAD"
     },
     {
@@ -2809,18 +2666,7 @@
       "make": "Ford",
       "model": "F-150",
       "condition": "new",
-      "price": 99388.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Ford F-150 LARIAT | 157 |  502A | Pro Access Tailgate | NAV",
-      "vin": "1FTFW5L83TFB48636",
-      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/new/23ba494e6fa0.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "F-150",
-      "condition": "new",
-      "price": 84268.0,
+      "price": 103738.0,
       "price_currency": "CAD"
     },
     {
@@ -2831,18 +2677,7 @@
       "make": "Ford",
       "model": "F-150",
       "condition": "new",
-      "price": 68613.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Ford F-150 Tremor | 145 | 402A | Pro Access Tailgate",
-      "vin": "1FTFW4L83TFB49358",
-      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/new/e8e6c4e548ce.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "F-150",
-      "condition": "new",
-      "price": 86873.0,
+      "price": 71613.0,
       "price_currency": "CAD"
     },
     {
@@ -2853,7 +2688,7 @@
       "make": "Ford",
       "model": "F-150",
       "condition": "new",
-      "price": 87873.0,
+      "price": 90873.0,
       "price_currency": "CAD"
     },
     {
@@ -2864,18 +2699,7 @@
       "make": "Ford",
       "model": "F-150",
       "condition": "new",
-      "price": 84268.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Ford F-150 XLT | 157 | 302A | Backup Camera | Tailgate Step",
-      "vin": "1FTFW3L80TKE46332",
-      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/new/1d5bccf97014.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "F-150",
-      "condition": "new",
-      "price": 69213.0,
+      "price": 87268.0,
       "price_currency": "CAD"
     },
     {
@@ -2887,28 +2711,6 @@
       "model": "F-150",
       "condition": "new",
       "price": 73583.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Ford F-150 Tremor | 145 | 402A | Pro Access Tailgate",
-      "vin": "1FTFW4L86TFB50830",
-      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/new/3f88f619c1fb.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "F-150",
-      "condition": "new",
-      "price": 85878.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Ford F-150 Tremor | 145 | 401A | Heated Seats | Backup Camera",
-      "vin": "1FTFW4L85TFB50771",
-      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/new/ec0f37c1fbab.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "F-150",
-      "condition": "new",
-      "price": 74183.0,
       "price_currency": "CAD"
     },
     {
@@ -3110,17 +2912,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Ford F-150 XLT | 157 | 300A | Remote Keyless Entry | Rear CAM",
-      "vin": "1FTFW3L82TKE65321",
-      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/new/1bca8d28f238.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "F-150",
-      "condition": "new",
-      "price": 59573.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Ford F-150 Raptor | 145 | 801A | Heated/Cooled Seats | NAV",
       "vin": "1FTFW1RG8TFB77525",
       "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/new/d6cdfdf4cdd0.html",
@@ -3151,17 +2942,6 @@
       "model": "F-150",
       "condition": "new",
       "price": 69213.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Ford F-150 XLT | 157 | 302A | Remote Start | Heated Seats",
-      "vin": "1FTFW3L87TKE69686",
-      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/new/bc3d77fc4070.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "F-150",
-      "condition": "new",
-      "price": 69413.0,
       "price_currency": "CAD"
     },
     {
@@ -3201,17 +2981,6 @@
       "name": "2026 Ford F-150 XLT | 145 | 301A | Tailgate Step | Backup Camera",
       "vin": "1FTEW3LP4TKE95844",
       "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/new/a62796616f78.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "F-150",
-      "condition": "new",
-      "price": 58998.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Ford F-150 XLT | 145 | 301A | Tailgate Step | Backup Camera",
-      "vin": "1FTEW3LP6TKE95845",
-      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/new/39b23c88eb54.html",
       "year": 2026,
       "make": "Ford",
       "model": "F-150",
@@ -3275,17 +3044,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Ford F-150 Tremor | 145 | 402A | Pro Access Tailgate | NAV",
-      "vin": "1FTFW4L84TFC06103",
-      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/new/5c009cb43e7a.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "F-150",
-      "condition": "new",
-      "price": 86878.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Ford F-150 STX | 145 | 200A | Remote Keyless Entry",
       "vin": "1FTEW2LP1TFC26588",
       "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/new/1db7a1670c32.html",
@@ -3294,17 +3052,6 @@
       "model": "F-150",
       "condition": "new",
       "price": 53993.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Ford F-150 XLT | 157 | 302A | Hybrid | Heated Seats",
-      "vin": "1FTFW3LD5TFC28697",
-      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/new/49061bbddca7.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "F-150",
-      "condition": "new",
-      "price": 73328.0,
       "price_currency": "CAD"
     },
     {
@@ -3462,28 +3209,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Ford F-150 XLT | 157 | 303A | Leather | Tailgate Step | NAV",
-      "vin": "1FTFW3L86TFC30512",
-      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/new/253a78c2489b.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "F-150",
-      "condition": "new",
-      "price": 77050.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Ford F-150 XLT | 157 | 301A | Backup Camera",
-      "vin": "1FTFW3L82TKF22052",
-      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/new/904fe01f84ea.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "F-150",
-      "condition": "new",
-      "price": 64533.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Ford F-150 Tremor | 145 | 402A | Pro Access Tailgate",
       "vin": "1FTFW4L87TFC28452",
       "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/new/2e9a86fe9ed5.html",
@@ -3514,17 +3239,6 @@
       "model": "F-150",
       "condition": "new",
       "price": 57523.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Ford F-150 XLT | 145 | 301A | Tailgate Step | Backup Camera",
-      "vin": "1FTFW3L83TFC27180",
-      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/new/af030bf798fd.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "F-150",
-      "condition": "new",
-      "price": 70113.0,
       "price_currency": "CAD"
     },
     {
@@ -3569,17 +3283,6 @@
       "model": "F-150",
       "condition": "new",
       "price": 86953.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Ford F-150 Lariat | 145 | 502A | Pro Access Tailgate | NAV",
-      "vin": "1FTFW5L85TFC26690",
-      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/new/7c0a4116d0a7.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "F-150",
-      "condition": "new",
-      "price": 85043.0,
       "price_currency": "CAD"
     },
     {
@@ -3737,39 +3440,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Ford F-150 King Ranch | 145 | 601A | Heads-Up | Moonroof",
-      "vin": "1FTFW6L83TFC52940",
-      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/new/ff23c8b88852.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "F-150",
-      "condition": "new",
-      "price": 96883.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Ford F-150 Lariat | 157 | 501A | Heated Seats/Wheel | NAV",
-      "vin": "1FTFW5L87TFC49999",
-      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/new/44059ee0c3b5.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "F-150",
-      "condition": "new",
-      "price": 77213.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Ford F-150 Platinum | 145 | 702A | Moonroof | Navigation",
-      "vin": "1FTFW7L82TFA44599",
-      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/new/83b05afbbc16.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "F-150",
-      "condition": "new",
-      "price": 98993.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Ford F-150 XLT | 157 | 302A | Nav | Remote Start | Backup Cam",
       "vin": "1FTFW3L85TKF52808",
       "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/new/4fb0cb3849ea.html",
@@ -3803,6 +3473,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2026 Ford F-150 XLT | 157 | 301A | Tailgate Step | Backup Camera",
+      "vin": "1FTFW3L82TKF52765",
+      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/new/b9f7274e29d3.html",
+      "year": 2026,
+      "make": "Ford",
+      "model": "F-150",
+      "condition": "new",
+      "price": 65973.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2026 Ford F-150 XLT | 145 | 301A | Tailgate Step | Backup Camera",
       "vin": "1FTFW3L84TKF52444",
       "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/new/23c9ccde42d5.html",
@@ -3825,69 +3506,36 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Ford F-150 Platinum | 145 | 702A | Moonroof | Navigation",
-      "vin": "1FTFW7L82TFB51992",
-      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/new/bf7937655a06.html",
+      "name": "2026 Ford F-150 Lariat | 145 | 502A | Pro Access Tailgate | NAV",
+      "vin": "1FTFW5L57TFB61671",
+      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/new/905ed0ca9e09.html",
       "year": 2026,
       "make": "Ford",
       "model": "F-150",
       "condition": "new",
-      "price": 114287.0,
+      "price": 90978.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Ford F-250 Super Duty XL | 160 | STX PKG | Backup Camera | Seats 6",
-      "vin": "1FT7X2BA1TEE85882",
-      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/new/f8430ecb0970.html",
+      "name": "2026 Ford F-150 XL | 145 | 101A | Bedliner | Engine Block Heater",
+      "vin": "1FTFW1L5XTKF30586",
+      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/new/b62dbb30c1e4.html",
       "year": 2026,
       "make": "Ford",
-      "model": "F-250",
+      "model": "F-150",
       "condition": "new",
-      "price": 74406.0,
+      "price": 61933.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Ford F-350 Super Duty Platinum | 176 | DIESEL | Moonroof |",
-      "vin": "1FT8W3BT3TED78945",
-      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/new/6a545371cce4.html",
+      "name": "2026 Ford F-150 XLT | 157 | 300A | Backup Camera",
+      "vin": "1FTFW3L85TKE93162",
+      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/new/7cec3e25ebad.html",
       "year": 2026,
       "make": "Ford",
-      "model": "F-350",
+      "model": "F-150",
       "condition": "new",
-      "price": 114607.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Ford F-350 Super Duty Platinum | 160 | Diesel | Moonroof |",
-      "vin": "1FT8W3BM7TED79461",
-      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/new/2ddbb4b2ce77.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "F-350",
-      "condition": "new",
-      "price": 118507.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Ford F-350 Super Duty Platinum | 176 | Diesel | Remote Start | 360 Cam",
-      "vin": "1FT8W3BT3TEE27206",
-      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/new/1c779afc66cb.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "F-350",
-      "condition": "new",
-      "price": 116232.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Ford F-350 Super Duty Lariat | 176 | DIESEL | Bedliner | Moonroof | NAV",
-      "vin": "1FT8W3BTXTEE54032",
-      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/new/7223df219b78.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "F-350",
-      "condition": "new",
-      "price": 107271.0,
+      "price": 61853.0,
       "price_currency": "CAD"
     },
     {
@@ -3946,14 +3594,47 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Ford Maverick XLT | 301A | AWD | Hybrid | Backup Camera",
-      "vin": "3FTTW8J37TRA70926",
-      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/new/89744f205533.html",
+      "name": "2026 Ford F-350 Super Duty Lariat | 176 | Heated/Cooled Seats | Navigation",
+      "vin": "1FT8W3BN9TEF22287",
+      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/new/1f60469d68bf.html",
       "year": 2026,
       "make": "Ford",
-      "model": "Maverick",
+      "model": "F-350",
       "condition": "new",
-      "price": 43153.0,
+      "price": 104607.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Ford F-350 Super Duty XLT | 176 | Diesel | Remote Keyless Entry",
+      "vin": "1FT8W3BT9TEF15242",
+      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/new/945e0585a831.html",
+      "year": 2026,
+      "make": "Ford",
+      "model": "F-350",
+      "condition": "new",
+      "price": 88353.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Ford F-350 Super Duty XLT | 176 | Diesel | Heated Seats | 360 Camera",
+      "vin": "1FT8W3BT0TEF54737",
+      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/new/8d619a221b26.html",
+      "year": 2026,
+      "make": "Ford",
+      "model": "F-350",
+      "condition": "new",
+      "price": 90063.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Ford F-350 Super Duty Lariat | 176 | Diesel | Moonroof | 360 Camera",
+      "vin": "1FT8W3BT0TEE05907",
+      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/new/7edd4afd7926.html",
+      "year": 2026,
+      "make": "Ford",
+      "model": "F-350",
+      "condition": "new",
+      "price": 111971.0,
       "price_currency": "CAD"
     },
     {
@@ -4053,17 +3734,6 @@
       "model": "Maverick",
       "condition": "new",
       "price": 46753.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Ford Maverick XLT | AWD | 301A | Hybrid | Heated Seats/Wheel",
-      "vin": "3FTTW8J35TRB58230",
-      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/new/2b6ac30578d0.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "Maverick",
-      "condition": "new",
-      "price": 45953.0,
       "price_currency": "CAD"
     },
     {
@@ -4386,28 +4056,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Ford Ranger LARIAT | 129 | 500A | Heated Seats | Navigation",
-      "vin": "1FTER4KH2TLE29763",
-      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/new/859f2f965603.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "Ranger",
-      "condition": "new",
-      "price": 57113.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Ford Ranger Lariat | 129 | 500A | Remote Start",
-      "vin": "1FTER4KH4TLE29554",
-      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/new/af14c46789d1.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "Ranger",
-      "condition": "new",
-      "price": 60738.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Ford Ranger XLT | 129 | 300A | Running Boards | Backup Camera",
       "vin": "1FTER4HH5TLE33961",
       "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/new/6623a4d86bbc.html",
@@ -4416,17 +4064,6 @@
       "model": "Ranger",
       "condition": "new",
       "price": 50358.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Ford Ranger Lariat | 129 | 500A | Remote Start | Heated Seats",
-      "vin": "1FTER4KHXTLE30160",
-      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/new/2434ff9e0618.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "Ranger",
-      "condition": "new",
-      "price": 59473.0,
       "price_currency": "CAD"
     },
     {
@@ -4460,6 +4097,17 @@
       "model": "Ranger",
       "condition": "new",
       "price": 65288.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Ford Transit Cargo Van T-350 | High Roof | AWD | Remote Start | NAV",
+      "vin": "1FTBW3UG8TKA74341",
+      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/new/730d615dbdbe.html",
+      "year": 2026,
+      "make": "Ford",
+      "model": "Transit Cargo",
+      "condition": "new",
+      "price": 77715.0,
       "price_currency": "CAD"
     },
     {
@@ -4584,6 +4232,72 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2027 Ford Bronco Sport Outer Banks | 300A | 4X4 | Remote Start | 360 Cam",
+      "vin": "3FMCR9CN7VRE21733",
+      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/new/73a023cb6378.html",
+      "year": 2027,
+      "make": "Ford",
+      "model": "Bronco Sport",
+      "condition": "new",
+      "price": 52333.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Ford Bronco Sport Outer Banks | 300A | 4X4 | Remote Start | 360 Cam",
+      "vin": "3FMCR9CN5VRE21567",
+      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/new/3d13325d401e.html",
+      "year": 2027,
+      "make": "Ford",
+      "model": "Bronco Sport",
+      "condition": "new",
+      "price": 52838.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Ford Bronco Sport Outer Banks | 300A | 4X4 | Moonroof | 360 Camera",
+      "vin": "3FMCR9CNXVRE21029",
+      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/new/38b35734ab00.html",
+      "year": 2027,
+      "make": "Ford",
+      "model": "Bronco Sport",
+      "condition": "new",
+      "price": 53538.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Ford Bronco Sport Badlands | 4X4 | 400A | Moonroof | 360 Camera",
+      "vin": "3FMCR9DA7VRE21758",
+      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/new/20c30af6306f.html",
+      "year": 2027,
+      "make": "Ford",
+      "model": "Bronco Sport",
+      "condition": "new",
+      "price": 57043.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Ford Bronco Sport Outer Banks | 300A | 4X4 | Remote Start | 360 Cam",
+      "vin": "3FMCR9CN5VRE21245",
+      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/new/252abf02b9c1.html",
+      "year": 2027,
+      "make": "Ford",
+      "model": "Bronco Sport",
+      "condition": "new",
+      "price": 52038.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Ford Bronco Sport Badlands | 4X4 | 400A | Moonroof | 360 Camera",
+      "vin": "3FMCR9DA0VRE21391",
+      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/new/e5c9617ec517.html",
+      "year": 2027,
+      "make": "Ford",
+      "model": "Bronco Sport",
+      "condition": "new",
+      "price": 57043.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2027 Ford Expedition Max Platinum Max | 30th Anniversary | Seats 7",
       "vin": "1FMJK1M85VEA16219",
       "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/new/27f0f85da7f6.html",
@@ -4680,17 +4394,6 @@
       "model": "Explorer",
       "condition": "new",
       "price": 63203.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Ford Explorer Platinum | 4WD | 6 Seater | Heated/Cooled Seats",
-      "vin": "1FMUK8HH3VGA35453",
-      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/new/e3ea860bf630.html",
-      "year": 2027,
-      "make": "Ford",
-      "model": "Explorer",
-      "condition": "new",
-      "price": 69703.0,
       "price_currency": "CAD"
     },
     {
@@ -5046,17 +4749,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Ford F-350 Super Duty Platinum | 176 | Diesel | Tremor | Moonroof | NAV",
-      "vin": "1FT8W3BM8VEC14134",
-      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/new/b79c23ff3bc8.html",
-      "year": 2027,
-      "make": "Ford",
-      "model": "F-350",
-      "condition": "new",
-      "price": 128532.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2027 Ford F-350 Super Duty Platinum",
       "vin": "1FT8W3BM5VEC30436",
       "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/new/0c0ed84ee459.html",
@@ -5069,28 +4761,6 @@
     },
     {
       "name": "2027 Ford F-350 Super Duty Platinum | 160 | Diesel | Heated/Cooled Seats",
-      "vin": "1FT8W3BM7VEC63521",
-      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/new/aa9582a2d293.html",
-      "year": 2027,
-      "make": "Ford",
-      "model": "F-350",
-      "condition": "new",
-      "price": 122957.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Ford F-350 Super Duty King Ranch",
-      "vin": "1FT8W3BM9VEC64184",
-      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/new/d6462826ad48.html",
-      "year": 2027,
-      "make": "Ford",
-      "model": "F-350",
-      "condition": "new",
-      "price": 125396.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Ford F-350 Super Duty Platinum | 160 | Diesel | Heated/Cooled Seats",
       "vin": "1FT8W3BMXVEC65148",
       "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/new/c3e00b2054f9.html",
       "year": 2027,
@@ -5098,6 +4768,94 @@
       "model": "F-350",
       "condition": "new",
       "price": 125282.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Ford F-350 Super Duty XLT | 176 | Bedliner | Remote Keyless Entry",
+      "vin": "2FT8W3BN8VBA02046",
+      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/new/2fcadea28941.html",
+      "year": 2027,
+      "make": "Ford",
+      "model": "F-350",
+      "condition": "new",
+      "price": 82253.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Ford F-350 Super Duty Lariat | 160 | Diesel | Heated/Cooled Seats | NAV",
+      "vin": "2FT8W3BM3VBA02267",
+      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/new/aa256fb9fabc.html",
+      "year": 2027,
+      "make": "Ford",
+      "model": "F-350",
+      "condition": "new",
+      "price": 113237.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Ford F-350 Super Duty Platinum | 160 | Diesel | Tremor | Moonroof | NAV",
+      "vin": "2FT8W3BM2VBA02308",
+      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/new/a12b5651bc1f.html",
+      "year": 2027,
+      "make": "Ford",
+      "model": "F-350",
+      "condition": "new",
+      "price": 127932.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Ford F-350 Super Duty Lariat | 160 | Diesel | Heated/Cooled Seats | NAV",
+      "vin": "2FT8W3BM7VBA02935",
+      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/new/4c542cbf882e.html",
+      "year": 2027,
+      "make": "Ford",
+      "model": "F-350",
+      "condition": "new",
+      "price": 117727.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Ford F-350 Super Duty Platinum | 176 | Diesel | Bedliner | Moonroof",
+      "vin": "2FT8W3BM5VBA02979",
+      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/new/a37f959b4750.html",
+      "year": 2027,
+      "make": "Ford",
+      "model": "F-350",
+      "condition": "new",
+      "price": 125082.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Ford F-350 Super Duty Lariat | 160 | Diesel | Moonroof | 350 Camera",
+      "vin": "2FT8W3BM9VBA03309",
+      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/new/8f3baf8b86b0.html",
+      "year": 2027,
+      "make": "Ford",
+      "model": "F-350",
+      "condition": "new",
+      "price": 112737.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Ford F-350 Super Duty Lariat | 160 | Diesel | Moonroof | bedliner | NAV",
+      "vin": "2FT8W3BM7VBA03888",
+      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/new/fdf672d93e37.html",
+      "year": 2027,
+      "make": "Ford",
+      "model": "F-350",
+      "condition": "new",
+      "price": 117002.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Ford F-350 Super Duty Lariat | 160 | Diesel | Heated/Cooled Seats | NAV",
+      "vin": "2FT8W3BM1VBA04972",
+      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/new/00afa379bc90.html",
+      "year": 2027,
+      "make": "Ford",
+      "model": "F-350",
+      "condition": "new",
+      "price": 118327.0,
       "price_currency": "CAD"
     },
     {
@@ -5123,6 +4881,50 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2027 Ford F-350 Super Duty Lariat | 160 | Diesel | Heated/Cooled Seats | NAV",
+      "vin": "2FT8W3BM3VBA05296",
+      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/new/f227b2e341f4.html",
+      "year": 2027,
+      "make": "Ford",
+      "model": "F-350",
+      "condition": "new",
+      "price": 116802.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Ford F-350 Super Duty XLT | 176 | Tailgate Step | 360 Camera",
+      "vin": "2FT8W3BN2VBA05993",
+      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/new/b7f86f959c29.html",
+      "year": 2027,
+      "make": "Ford",
+      "model": "F-350",
+      "condition": "new",
+      "price": 82228.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Ford F-350 Super Duty Platinum | 160 | Diesel | Tremor | Moonroof | NAV",
+      "vin": "1FT8W3BM5VEC94752",
+      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/new/1db21e2657ee.html",
+      "year": 2027,
+      "make": "Ford",
+      "model": "F-350",
+      "condition": "new",
+      "price": 126532.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Ford F-350 Super Duty Lariat | 160 | Moonroof | 360 Camera | Navigation",
+      "vin": "2FT8W3BN3VBA05999",
+      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/new/8b4b068bef02.html",
+      "year": 2027,
+      "make": "Ford",
+      "model": "F-350",
+      "condition": "new",
+      "price": 105396.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2027 Ford F-350 Super Duty Platinum | 176 | Diesel | Dually | Moonroof | NAV",
       "vin": "1FT8W3DM4VED01333",
       "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/new/0eb07d453bce.html",
@@ -5134,6 +4936,237 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2027 Ford F-350 Super Duty King Ranch | 160 | Diesel | Moonroof | Bedliner",
+      "vin": "2FT8W3BM8VBA05178",
+      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/new/cf3fa327f801.html",
+      "year": 2027,
+      "make": "Ford",
+      "model": "F-350",
+      "condition": "new",
+      "price": 126796.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Ford F-350 Super Duty Lariat | 160 | Moonroof | Tailgate Step | 360 Cam",
+      "vin": "2FT8W3BN0VBA05703",
+      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/new/50c9a8be9658.html",
+      "year": 2027,
+      "make": "Ford",
+      "model": "F-350",
+      "condition": "new",
+      "price": 103302.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Ford F-350 Super Duty Platinum | 176 | Diesel | Heated/Cooled Seats",
+      "vin": "1FT8W3BM1VEC96983",
+      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/new/ada0f1989488.html",
+      "year": 2027,
+      "make": "Ford",
+      "model": "F-350",
+      "condition": "new",
+      "price": 128532.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Ford F-350 Super Duty Lariat | 160 | Moonroof | Heated/Cooled Seats",
+      "vin": "2FT8W3BNXVBA07071",
+      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/new/30f9d191c0fb.html",
+      "year": 2027,
+      "make": "Ford",
+      "model": "F-350",
+      "condition": "new",
+      "price": 104827.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Ford F-350 Super Duty Platinum | 160 | Diesel | Moonroof | Navigation",
+      "vin": "2FT8W3BM8VBA07318",
+      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/new/6a039b0178b1.html",
+      "year": 2027,
+      "make": "Ford",
+      "model": "F-350",
+      "condition": "new",
+      "price": 125032.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Ford F-350 Super Duty XLT | 160 | Diesel | Tremor | 360 Cam | Moonroof",
+      "vin": "2FT8W3BM2VBA08500",
+      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/new/8ffa1cc3d0cb.html",
+      "year": 2027,
+      "make": "Ford",
+      "model": "F-350",
+      "condition": "new",
+      "price": 108908.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Ford F-350 Super Duty Platinum | 160 | Diesel | Bedliner | Moonroof",
+      "vin": "2FT8W3BM7VBA09254",
+      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/new/f758d50fa7e6.html",
+      "year": 2027,
+      "make": "Ford",
+      "model": "F-350",
+      "condition": "new",
+      "price": 124482.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Ford F-350 Super Duty XLT | 160 | Diesel | Tremor | 360 Cam | Moonroof",
+      "vin": "2FT8W3BM4VBA08644",
+      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/new/c9cd4475ed42.html",
+      "year": 2027,
+      "make": "Ford",
+      "model": "F-350",
+      "condition": "new",
+      "price": 108908.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Ford F-350 Super Duty XLT | 160 | Diesel | Tremor | 360 Cam | Moonroof",
+      "vin": "2FT8W3BN2VBA08781",
+      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/new/436c58340f04.html",
+      "year": 2027,
+      "make": "Ford",
+      "model": "F-350",
+      "condition": "new",
+      "price": 95458.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Ford F-350 Super Duty XLT | 160 | Diesel | Tremor | 360 Cam | Moonroof",
+      "vin": "2FT8W3BM0VBA08950",
+      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/new/6f30a5eadd56.html",
+      "year": 2027,
+      "make": "Ford",
+      "model": "F-350",
+      "condition": "new",
+      "price": 108908.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Ford F-350 Super Duty Lariat | 176 | Diesel | Moonroof | 360 Camera",
+      "vin": "2FT8W3BM1VBA18435",
+      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/new/05c25c56a4a2.html",
+      "year": 2027,
+      "make": "Ford",
+      "model": "F-350",
+      "condition": "new",
+      "price": 118327.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Ford F-350 Super Duty XL | 160 | Diesel | STX Pkg | Tailgate Step",
+      "vin": "2FT8W3BMXVBA17624",
+      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/new/b4bf22b578db.html",
+      "year": 2027,
+      "make": "Ford",
+      "model": "F-350",
+      "condition": "new",
+      "price": 91337.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Ford F-350 Super Duty Lariat | Heated/Cooled Seats | Tremor | 360 Camera",
+      "vin": "1FT8W3BNXVEC27931",
+      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/new/c63437fa3e9f.html",
+      "year": 2027,
+      "make": "Ford",
+      "model": "F-350",
+      "condition": "new",
+      "price": 107546.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Ford F-350 Super Duty Platinum | 176 | Diesel | Heated/Cooled Seats",
+      "vin": "2FT8W3BM6VBA18365",
+      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/new/a3f7553c05d4.html",
+      "year": 2027,
+      "make": "Ford",
+      "model": "F-350",
+      "condition": "new",
+      "price": 123557.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Ford F-350 Super Duty Platinum | 160 | Diesel | Moonroof | Bedliner",
+      "vin": "2FT8W3BM2VBA18296",
+      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/new/db5bc0b15f28.html",
+      "year": 2027,
+      "make": "Ford",
+      "model": "F-350",
+      "condition": "new",
+      "price": 124482.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Ford F-350 Super Duty XLT | 176 | Bedliner | Remote Keyless Entry",
+      "vin": "2FT8W3BNXVBA15896",
+      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/new/764c9b5ff563.html",
+      "year": 2027,
+      "make": "Ford",
+      "model": "F-350",
+      "condition": "new",
+      "price": 81918.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Ford F-350 Super Duty XLT | 176 | Bedliner | Remote Keyless Entry",
+      "vin": "2FT8W3BN2VBA16041",
+      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/new/d219dfe69df9.html",
+      "year": 2027,
+      "make": "Ford",
+      "model": "F-350",
+      "condition": "new",
+      "price": 81918.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Ford F-350 Super Duty XLT | 176 | Bedliner | Remote Keyless Entry",
+      "vin": "2FT8W3BN2VBA15990",
+      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/new/b6c9fe4dcb61.html",
+      "year": 2027,
+      "make": "Ford",
+      "model": "F-350",
+      "condition": "new",
+      "price": 81918.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Ford F-350 Super Duty XLT | 176 | Bedliner | Remote Keyless Entry",
+      "vin": "2FT8W3BN2VBA16265",
+      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/new/53b8c8d0804e.html",
+      "year": 2027,
+      "make": "Ford",
+      "model": "F-350",
+      "condition": "new",
+      "price": 81918.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Ford F-350 Super Duty XLT | 176 | Bedliner | Remote Keyless Entry",
+      "vin": "2FT8W3BN0VBA16183",
+      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/new/23053054320e.html",
+      "year": 2027,
+      "make": "Ford",
+      "model": "F-350",
+      "condition": "new",
+      "price": 81918.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Ford F-350 Super Duty XLT | 176 | Bedliner | Remote Keyless Entry",
+      "vin": "2FT8W3BN6VBA17905",
+      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/new/acf306c423f7.html",
+      "year": 2027,
+      "make": "Ford",
+      "model": "F-350",
+      "condition": "new",
+      "price": 86538.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2027 Ford F-450 Super Duty Platinum | 176 | Diesel | Dually | Moonroof | NAV",
       "vin": "1FT8W4DM0VEC38432",
       "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/new/28ff89cc895a.html",
@@ -5142,17 +5175,6 @@
       "model": "F-450",
       "condition": "new",
       "price": 144047.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Ford F-450 Super Duty Platinum | 176 | Diesel | Dually | Moonroof | NAV",
-      "vin": "1FT8W4DM3VEC38408",
-      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/new/f1c35b8ef310.html",
-      "year": 2027,
-      "make": "Ford",
-      "model": "F-450",
-      "condition": "new",
-      "price": 143687.0,
       "price_currency": "CAD"
     },
     {
@@ -5175,6 +5197,72 @@
       "model": "Maverick",
       "condition": "new",
       "price": 51453.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Ford Maverick LARIAT | AWD | Hybrid | Moonroof | Heated Seats",
+      "vin": "3FTTW8S36VRA19807",
+      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/new/37257a358365.html",
+      "year": 2027,
+      "make": "Ford",
+      "model": "Maverick",
+      "condition": "new",
+      "price": 53953.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Ford Maverick XLT | AWD | 301A | Hybrid | Backup Camera",
+      "vin": "3FTTW8J31VRA20011",
+      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/new/a0be8096f3c8.html",
+      "year": 2027,
+      "make": "Ford",
+      "model": "Maverick",
+      "condition": "new",
+      "price": 49555.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Ford Maverick XLT | AWD | 301A | Hybrid | Backup Camera",
+      "vin": "3FTTW8J33VRA19670",
+      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/new/fc256522f258.html",
+      "year": 2027,
+      "make": "Ford",
+      "model": "Maverick",
+      "condition": "new",
+      "price": 50453.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Ford Maverick XLT | AWD | 301A | Hybrid | Backup Camera",
+      "vin": "3FTTW8J33VRA20138",
+      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/new/1e6c74a93061.html",
+      "year": 2027,
+      "make": "Ford",
+      "model": "Maverick",
+      "condition": "new",
+      "price": 50053.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Ford Maverick XLT | AWD | 301A | Hybrid | Heated Seats",
+      "vin": "3FTTW8J39VRA19852",
+      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/new/90200ab32622.html",
+      "year": 2027,
+      "make": "Ford",
+      "model": "Maverick",
+      "condition": "new",
+      "price": 51453.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Ford Transit Passenger Van XL",
+      "vin": "1FBVU5XG7VKA31739",
+      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/new/f8efabd090a6.html",
+      "year": 2027,
+      "make": "Ford",
+      "model": "Transit",
+      "condition": "new",
+      "price": 95830.0,
       "price_currency": "CAD"
     }
   ]
