@@ -1,10 +1,33 @@
 {
   "dealership": "Prince George Ford",
-  "generated_at": "2026-10-26T09:31:59",
+  "generated_at": "2026-11-17T11:45:33",
   "vehicle_count": 472,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
+    {
+      "name": "Vehicles in Prince George",
+      "vin": "1FTBW2X87SKB00084",
+      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/used/de4f7316d141.html",
+      "condition": "used"
+    },
+    {
+      "name": "Vehicles in Prince George",
+      "vin": "1FTBW2X87SKB00084",
+      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/used/b0ca7e183865.html",
+      "condition": "used"
+    },
+    {
+      "name": "2006 Land Rover LR3 SE | 4WD | Tow Off The Lot | Heated Seats",
+      "vin": "SALAE25486A365986",
+      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/used/6bb9c4b3207d.html",
+      "year": 2006,
+      "make": "Land",
+      "model": "Rover LR3 SE",
+      "condition": "used",
+      "price": 6999.0,
+      "price_currency": "CAD"
+    },
     {
       "name": "2009 Ford Ranger ",
       "vin": "1FTZR45E99PA33429",
@@ -17,36 +40,47 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2011 Lincoln Navigator Ultimate | 4WD | Tow Off The Lot | DVD System",
-      "vin": "5LMJJ2J55BEJ08393",
-      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/used/e1167a8d8a55.html",
+      "name": "2011 Ford Explorer Limited | 4WD | Tow Off The Lot | Heated Seats",
+      "vin": "1FMHK8F83BGA36666",
+      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/used/59df0c2c839e.html",
       "year": 2011,
-      "make": "Lincoln",
-      "model": "Navigator",
+      "make": "Ford",
+      "model": "Explorer",
       "condition": "used",
-      "price": 8911.0,
+      "price": 9911.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2011 RAM 1500 ",
+      "name": "2011 RAM 1500 Laramie | Tow off The Lot | Heated/Cooled Seats",
       "vin": "1D7RV1CT4BS607164",
-      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/used/9a7b9d457ae7.html",
+      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/used/88eb3afd22ba.html",
       "year": 2011,
       "make": "RAM",
       "model": "1500",
       "condition": "used",
-      "price": 15995.0,
+      "price": 14411.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2012 Ford F-150 ",
-      "vin": "1FTFW1EF2CFB48230",
-      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/used/42e281e1f5e1.html",
+      "name": "2012 Ford F-150 FX4 | 145 | Heated/Cooled Seats | Power Moonroof",
+      "vin": "1FTFW1ET0CFB77859",
+      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/used/1f26218290f0.html",
       "year": 2012,
       "make": "Ford",
       "model": "F-150",
       "condition": "used",
-      "price": 10999.0,
+      "price": 16911.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2012 GMC Acadia Denali | AWD | 7 Seater | Tow off The Lot | DVD",
+      "vin": "1GKKVTED5CJ165116",
+      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/used/038093965895.html",
+      "year": 2012,
+      "make": "GMC",
+      "model": "Acadia",
+      "condition": "used",
+      "price": 7911.0,
       "price_currency": "CAD"
     },
     {
@@ -72,25 +106,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2013 Ford F-150 XLT | 157 | 301A | Tow Off The lot | Backup Camera",
-      "vin": "1FTFW1ET6DKF75196",
-      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/used/fb0c54d67e97.html",
+      "name": "2013 Ford Flex Limited | AWD | 7 Seater | Tow Off The Lot",
+      "vin": "2FMHK6D8XDBD29983",
+      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/used/5d5db43e3587.html",
       "year": 2013,
       "make": "Ford",
-      "model": "F-150",
+      "model": "Flex",
       "condition": "used",
-      "price": 15711.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2013 RAM 1500 Outdoorsman | Tow Off The Lot | Heated Seats/Wheel",
-      "vin": "1C6RR7LT7DS691198",
-      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/used/24a7fb4c0e5c.html",
-      "year": 2013,
-      "make": "RAM",
-      "model": "1500",
-      "condition": "used",
-      "price": 8211.0,
+      "price": 8711.0,
       "price_currency": "CAD"
     },
     {
@@ -116,6 +139,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2014 GMC Sierra 1500 Base | 4X4 | Tow Off The Lot | Block Heater",
+      "vin": "1GTV2TEH8EZ202720",
+      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/used/f5aff0b74df6.html",
+      "year": 2014,
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "condition": "used",
+      "price": 4711.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2014 Hyundai Veloster Turbo | FWD | Tow off The Lot | Moonroof",
       "vin": "KMHTC6AE7EU200435",
       "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/used/fd334415f02f.html",
@@ -127,47 +161,47 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2015 Ford F-150 Lariat | 145 | 501A | Tow off The Lot | Navigation",
-      "vin": "1FTEW1EG8FKE90832",
-      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/used/fcc9798d3d93.html",
+      "name": "2015 Dodge Journey SXT | FWD | Tow off The lot | 7 Seater | Bluetooth",
+      "vin": "3C4PDCCG6FT529803",
+      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/used/2a0f9820c715.html",
+      "year": 2015,
+      "make": "Dodge",
+      "model": "Journey",
+      "condition": "used",
+      "price": 4711.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2015 Ford F-150 King Ranch | 157 | Tow Off The Lot | Heated Seats",
+      "vin": "1FTFW1EFXFFA82594",
+      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/used/92ffc2c48461.html",
       "year": 2015,
       "make": "Ford",
       "model": "F-150",
       "condition": "used",
-      "price": 23211.0,
+      "price": 17999.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2015 Subaru Forester XT Touring | AWD | Tow Off The Lot | Moonroof",
-      "vin": "JF2SJHTC1FH809917",
-      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/used/aae7a85ce477.html",
+      "name": "2015 GMC Terrain Denali | AWD | Heated Seats | Moonroof | Navi",
+      "vin": "2GKFLZE35F6223728",
+      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/used/ac4a68ba21d5.html",
       "year": 2015,
-      "make": "Subaru",
-      "model": "Forester",
-      "condition": "used",
-      "price": 12911.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2016 Ford F-150 XLT | 157 | 301A | Tow Off The Lot | Backup Camera",
-      "vin": "1FTFW1EF0GKE51522",
-      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/used/0698166a12fc.html",
-      "year": 2016,
-      "make": "Ford",
-      "model": "F-150",
-      "condition": "used",
-      "price": 17711.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2016 GMC Sierra 3500HD Denali | Diesel | Tow Off The Lot | Heated Seats",
-      "vin": "1GT42YE86GF228472",
-      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/used/bf5a902120f4.html",
-      "year": 2016,
       "make": "GMC",
-      "model": "Sierra 3500HD",
+      "model": "Terrain",
       "condition": "used",
-      "price": 45995.0,
+      "price": 9911.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2015 Nissan Pathfinder SL | AWD | 7 Seater | Tow Off The Lot | Navigation",
+      "vin": "5N1AR2MM6FC689497",
+      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/used/fd0e08591650.html",
+      "year": 2015,
+      "make": "Nissan",
+      "model": "Pathfinder",
+      "condition": "used",
+      "price": 4911.0,
       "price_currency": "CAD"
     },
     {
@@ -204,28 +238,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2016 Toyota Corolla Sedan S | FWD | Heated Seats | Backup Camera",
-      "vin": "2T1BURHE0GC717774",
-      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/used/7cb9c74f99fa.html",
-      "year": 2016,
-      "make": "Toyota",
-      "model": "Corolla",
-      "condition": "used",
-      "price": 18657.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2017 Ford Escape SE | 4WD | Heated Seats | Backup Camera",
-      "vin": "1FMCU9G96HUA43512",
-      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/used/b67324c4ecb5.html",
-      "year": 2017,
-      "make": "Ford",
-      "model": "Escape",
-      "condition": "used",
-      "price": 16599.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2017 Ford Explorer Sport | 4WD | 6 Seater | Tow Off The Lot",
       "vin": "1FM5K8GT3HGB73704",
       "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/used/a57700dc6a6d.html",
@@ -259,25 +271,47 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2017 Ford F-150 Lariat | 145 | 501A | Tow off The Lot",
-      "vin": "1FTEW1EG9HKD56138",
-      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/used/c964515b857d.html",
+      "name": "2017 Ford F-150 XLT | 157 | 301A | Bedliner | Backup Camera",
+      "vin": "1FTFW1EG2HKD56132",
+      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/used/ef43620914fd.html",
       "year": 2017,
       "make": "Ford",
       "model": "F-150",
       "condition": "used",
-      "price": 29799.0,
+      "price": 19989.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2017 Ford F-550 Super Duty ",
+      "name": "2017 Ford F-350 Super Duty XLT | 160 | Diesel | Tow Off The Lot | Bedliner",
+      "vin": "1FT8W3BT8HEE67398",
+      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/used/ab2ce238e71e.html",
+      "year": 2017,
+      "make": "Ford",
+      "model": "F-350",
+      "condition": "used",
+      "price": 29511.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2017 Ford F-350 Super Duty Lariat | 176 | Diesel | Moonroof | Heated Seats",
+      "vin": "1FT8W3BT7HEB31662",
+      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/used/ad42305d1b7d.html",
+      "year": 2017,
+      "make": "Ford",
+      "model": "F-350",
+      "condition": "used",
+      "price": 39911.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2017 Ford F-550 Super Duty XLT | 203 | Diesel | Remote Keyless Entry",
       "vin": "1FD0W5HT0HED22075",
-      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/used/228a4dd2634d.html",
+      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/used/20b463bf0bb8.html",
       "year": 2017,
       "make": "Ford",
       "model": "F-550",
       "condition": "used",
-      "price": 49995.0,
+      "price": 49769.0,
       "price_currency": "CAD"
     },
     {
@@ -300,6 +334,17 @@
       "model": "Titan",
       "condition": "used",
       "price": 18911.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2017 RAM 1500 ST | Tow Off The Lot | Remote Keyless Entry",
+      "vin": "1C6RR7FT2HS623747",
+      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/used/a18c33a33ff9.html",
+      "year": 2017,
+      "make": "RAM",
+      "model": "1500",
+      "condition": "used",
+      "price": 10911.0,
       "price_currency": "CAD"
     },
     {
@@ -332,14 +377,47 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2018 Ford F-150 XLT | 157 | 302A | Special | Heated Seats | NAV",
-      "vin": "1FTFW1EG0JFE19288",
-      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/used/7d6b7cde4f3e.html",
+      "name": "2018 Ford Expedition Platinum | 4X4 | 7 Seater | Heated Seats/Wheel",
+      "vin": "1FMJU1MTXJEA20243",
+      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/used/45c0dce80b3a.html",
+      "year": 2018,
+      "make": "Ford",
+      "model": "Expedition",
+      "condition": "used",
+      "price": 28989.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2018 Ford F-150 XLT | 157 | 302A | Remote Start | Heated Seats",
+      "vin": "1FTFW1EG2JFD57389",
+      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/used/cc4d72f79211.html",
       "year": 2018,
       "make": "Ford",
       "model": "F-150",
       "condition": "used",
-      "price": 28995.0,
+      "price": 19911.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2018 Ford F-150 Lariat | 157 | 501A | Heated/Cooled Seats | NAV",
+      "vin": "1FTFW1EG1JFD30216",
+      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/used/cb0b4048e6df.html",
+      "year": 2018,
+      "make": "Ford",
+      "model": "F-150",
+      "condition": "used",
+      "price": 30899.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2018 Ford F-150 XLT | 145 | 300A | Remote Keyless Entry",
+      "vin": "1FTEW1EP9JKE10799",
+      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/used/eda993277f92.html",
+      "year": 2018,
+      "make": "Ford",
+      "model": "F-150",
+      "condition": "used",
+      "price": 10911.0,
       "price_currency": "CAD"
     },
     {
@@ -407,6 +485,17 @@
       "condition": "used"
     },
     {
+      "name": "2019 Ford Escape SEL | 4WD | Heated Seats | Tow Off the Lot",
+      "vin": "1FMCU9HD4KUB88784",
+      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/used/2b22489b8ddc.html",
+      "year": 2019,
+      "make": "Ford",
+      "model": "Escape",
+      "condition": "used",
+      "price": 4911.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2019 Ford F-150 Lariat | 145 | 502A | Tow Off The lot | Moonroof",
       "vin": "1FTEW1E52KFC92328",
       "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/used/12ffd7ad1f0a.html",
@@ -415,6 +504,17 @@
       "model": "F-150",
       "condition": "used",
       "price": 26995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2019 Ford F-150 XLT | 157 | 301A | Bedliner | Remote Keyless Entry",
+      "vin": "1FTFW1E42KKD41143",
+      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/used/78fc0869e193.html",
+      "year": 2019,
+      "make": "Ford",
+      "model": "F-150",
+      "condition": "used",
+      "price": 27899.0,
       "price_currency": "CAD"
     },
     {
@@ -451,39 +551,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2019 GMC Sierra 1500 Elevation | X31 | Tow Off The Lot | Heated Seats",
-      "vin": "1GTU9CED7KZ306101",
-      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/used/b3d68cb53e98.html",
-      "year": 2019,
-      "make": "GMC",
-      "model": "Sierra 1500",
-      "condition": "used",
-      "price": 19999.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2019 Honda Civic Hatchback LX | FWD | Heated Seats | Backup Camera",
-      "vin": "SHHFK7H31KU302895",
-      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/used/3e956f0286cf.html",
-      "year": 2019,
-      "make": "Honda",
-      "model": "Civic",
-      "condition": "used",
-      "price": 16844.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2019 Kia Rio LX + | FWD | Heated Seats/ Wheel | Backup Camera",
-      "vin": "3KPA24ABXKE216180",
-      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/used/404844e67803.html",
-      "year": 2019,
-      "make": "Kia",
-      "model": "Rio",
-      "condition": "used",
-      "price": 11899.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2019 Lincoln MKT Reserve | AWD | 7 Seater | Vista Roof | Navigation",
       "vin": "2LMHJ5AT1KBL03019",
       "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/used/f665037caa91.html",
@@ -491,7 +558,7 @@
       "make": "Lincoln",
       "model": "MKT Reserve",
       "condition": "used",
-      "price": 20695.0,
+      "price": 18799.0,
       "price_currency": "CAD"
     },
     {
@@ -502,7 +569,7 @@
       "make": "RAM",
       "model": "1500 Classic",
       "condition": "used",
-      "price": 23799.0,
+      "price": 23395.0,
       "price_currency": "CAD"
     },
     {
@@ -517,6 +584,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2019 Subaru Forester Sport | AWD | Heated Seats | Backup Camera",
+      "vin": "JF2SKEKC3KH554128",
+      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/used/3cac6a46a41d.html",
+      "year": 2019,
+      "make": "Subaru",
+      "model": "Forester",
+      "condition": "used",
+      "price": 24899.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2020 Ford F-150 Lariat | 145 | 502A | Heated/Cooled Seats | NAV",
       "vin": "1FTEW1EP3LFB49441",
       "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/used/cb5a85e824b7.html",
@@ -525,17 +603,6 @@
       "model": "F-150",
       "condition": "used",
       "price": 31599.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2020 Ford F-150 XL | 145 | Bedliner | Backup Camera",
-      "vin": "1FTEW1E50LKD47738",
-      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/used/4559dfbac007.html",
-      "year": 2020,
-      "make": "Ford",
-      "model": "F-150",
-      "condition": "used",
-      "price": 24957.0,
       "price_currency": "CAD"
     },
     {
@@ -550,36 +617,25 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2020 Ford F-150 ",
-      "vin": "1FTEW1E43LFB24111",
-      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/used/547c01243ccb.html",
+      "name": "2020 Ford F-150 Lariat | 157 | 501A | Heated/Cooled Seats | NAV",
+      "vin": "1FTFW1E55LKF29844",
+      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/used/1546f5f7b67f.html",
       "year": 2020,
       "make": "Ford",
       "model": "F-150",
       "condition": "used",
-      "price": 30995.0,
+      "price": 36888.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2020 Ford F-250 Super Duty ",
-      "vin": "1FT7W2B60LEC83811",
-      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/used/7c618ecd5ebe.html",
+      "name": "2020 Ford F-150 Platinum | 157 | 700A | 360 Camera | Navigation",
+      "vin": "1FTFW1E46LFB73193",
+      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/used/0df68f55cfce.html",
       "year": 2020,
       "make": "Ford",
-      "model": "F-250",
+      "model": "F-150",
       "condition": "used",
-      "price": 38995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2020 Ford F-350 Super Duty Platinum | 160 | Diesel | Heated/Cooled Seats",
-      "vin": "1FT8W3BT3LEE54647",
-      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/used/aa1338a58988.html",
-      "year": 2020,
-      "make": "Ford",
-      "model": "F-350",
-      "condition": "used",
-      "price": 68799.0,
+      "price": 39879.0,
       "price_currency": "CAD"
     },
     {
@@ -590,18 +646,7 @@
       "make": "RAM",
       "model": "1500 Classic",
       "condition": "used",
-      "price": 23695.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2020 Toyota Tacoma TRD Sport | 4X4 | Backup Camera | Heated Seats",
-      "vin": "5TFDZ5BN3LX046804",
-      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/used/10089bf312a8.html",
-      "year": 2020,
-      "make": "Toyota",
-      "model": "Tacoma",
-      "condition": "used",
-      "price": 38959.0,
+      "price": 23199.0,
       "price_currency": "CAD"
     },
     {
@@ -616,6 +661,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2021 Ford Escape Titanium | AWD | Heated Seats | Remote Start | NAV",
+      "vin": "1FMCU9J9XMUA55925",
+      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/used/83d4ac63e44b.html",
+      "year": 2021,
+      "make": "Ford",
+      "model": "Escape",
+      "condition": "used",
+      "price": 19995.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2021 Ford Expedition Max Limited Max | 8 Seater | Tow Off The Lot",
       "vin": "1FMJK2AT1MEA29787",
       "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/used/a5d86590e71c.html",
@@ -623,7 +679,7 @@
       "make": "Ford",
       "model": "Expedition",
       "condition": "used",
-      "price": 19311.0,
+      "price": 18411.0,
       "price_currency": "CAD"
     },
     {
@@ -724,6 +780,28 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2021 Ford F-150 Lariat | 157 | 502A | Hybrid | Heated/Cooled Seats",
+      "vin": "1FTFW1ED7MFB66030",
+      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/used/3aa40337b74a.html",
+      "year": 2021,
+      "make": "Ford",
+      "model": "F-150",
+      "condition": "used",
+      "price": 41985.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2021 GMC Canyon AT4 | 4X4 | Heated Seats/Wheel | Remote Start",
+      "vin": "1GTG6FEN0M1277638",
+      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/used/b5b14e6fc0a5.html",
+      "year": 2021,
+      "make": "GMC",
+      "model": "Canyon",
+      "condition": "used",
+      "price": 37499.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2021 GMC Sierra 1500 Elevation | Diesel | Backup Camera | Heated Seats",
       "vin": "3GTU9CET8MG394487",
       "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/used/752d318d0c3d.html",
@@ -735,17 +813,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2021 Hyundai Santa Fe ",
-      "vin": "5NMS2DAJ7MH322688",
-      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/used/fa7aa76df27f.html",
-      "year": 2021,
-      "make": "Hyundai",
-      "model": "Santa Fe",
-      "condition": "used",
-      "price": 19995.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2021 Mazda Mazda3 Sedan GT | AWD | 100th Anniversary | Heads-Up | NAV",
       "vin": "JM1BPBAY8M1310109",
       "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/used/135a10b4b9bb.html",
@@ -754,6 +821,17 @@
       "model": "Mazda3",
       "condition": "used",
       "price": 27899.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2021 RAM 1500 Limited | Heated/Cooled Seats | Moonroof | NAV",
+      "vin": "1C6SRFHT7MN528523",
+      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/used/40b686e14009.html",
+      "year": 2021,
+      "make": "RAM",
+      "model": "1500",
+      "condition": "used",
+      "price": 45899.0,
       "price_currency": "CAD"
     },
     {
@@ -779,17 +857,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2022 Ford Edge Titanium | AWD | Heated/Cooled Seats | NAV",
-      "vin": "2FMPK4K9XNBA87080",
-      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/used/d8ec624b310a.html",
-      "year": 2022,
-      "make": "Ford",
-      "model": "Edge",
-      "condition": "used",
-      "price": 28899.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2022 Ford Expedition Limited | 4X4 | 7 Seater | Heated/Cooled Seats",
       "vin": "1FMJU2AT0NEA00857",
       "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/used/b86f64d7b354.html",
@@ -797,18 +864,7 @@
       "make": "Ford",
       "model": "Expedition",
       "condition": "used",
-      "price": 59999.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 Ford Explorer XLT | 4WD | 7 Seated | Incoming Unit | Navigation",
-      "vin": "1FMSK8DHXNGB93284",
-      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/used/d81323adebee.html",
-      "year": 2022,
-      "make": "Ford",
-      "model": "Explorer",
-      "condition": "used",
-      "price": 31799.0,
+      "price": 56595.0,
       "price_currency": "CAD"
     },
     {
@@ -867,6 +923,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2022 Ford F-150 XLT | 145 | 301A",
+      "vin": "1FTEW1EP1NFB39882",
+      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/used/fb8fcc2c6184.html",
+      "year": 2022,
+      "make": "Ford",
+      "model": "F-150",
+      "condition": "used",
+      "price": 41559.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2022 Ford F-150 Lariat | 145 | 502A | Incoming Unit | Heated Seats",
       "vin": "1FTFW1E87NFA34017",
       "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/used/c579b81e2645.html",
@@ -911,6 +978,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2022 Ford F-150 XLT | Incoming Unit",
+      "vin": "1FTFW1E82NFB86982",
+      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/used/ec75e5298e25.html",
+      "year": 2022,
+      "make": "Ford",
+      "model": "F-150",
+      "condition": "used",
+      "price": 41499.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2022 Ford F-250 Super Duty ",
       "vin": "1FT7W2B62NEF08488",
       "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/used/0b627a62a5a0.html",
@@ -940,7 +1018,7 @@
       "make": "Ford",
       "model": "F-350",
       "condition": "used",
-      "price": 79295.0,
+      "price": 76988.0,
       "price_currency": "CAD"
     },
     {
@@ -951,7 +1029,7 @@
       "make": "Ford",
       "model": "F-350",
       "condition": "used",
-      "price": 54499.0,
+      "price": 53695.0,
       "price_currency": "CAD"
     },
     {
@@ -966,34 +1044,58 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2022 GMC Terrain",
-      "vin": "3GKALTEV2NL261078",
-      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/used/12f460d64de4.html",
+      "name": "2022 Hyundai Santa Fe Urban | AWD | Heated Seats/Wheel | Remote Start",
+      "vin": "5NMS3DALXNH383081",
+      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/used/6c7a7f28d674.html",
       "year": 2022,
-      "make": "GMC",
-      "model": "Terrain",
-      "condition": "used"
-    },
-    {
-      "name": "2022 Lincoln Nautilus Reserve | AWD | Heated/Cooled Seats | 360 Camera",
-      "vin": "2LMPJ8KP8NBL15042",
-      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/used/cc16c0f22dc4.html",
-      "year": 2022,
-      "make": "Lincoln",
-      "model": "Nautilus",
+      "make": "Hyundai",
+      "model": "Santa Fe",
       "condition": "used",
-      "price": 31999.0,
+      "price": 27992.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2022 Lincoln Nautilus Reserve | AWD | Incoming Unit | Heated Seats/Wheel",
+      "name": "2022 Kia Sorento Hybrid LX | AWD | Hybrid | 7 Seater | Heated Seats",
+      "vin": "KNDRGDLGXN5077570",
+      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/used/7ce34e2d1698.html",
+      "year": 2022,
+      "make": "Kia",
+      "model": "Sorento Hybrid",
+      "condition": "used",
+      "price": 25999.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2022 Lincoln Nautilus Reserve | AWD | Heated/Cooled Seats | 360 Camera",
       "vin": "2LMPJ8K96NBL18068",
       "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/used/2223ef1a2da7.html",
       "year": 2022,
       "make": "Lincoln",
       "model": "Nautilus",
       "condition": "used",
-      "price": 37849.0,
+      "price": 37377.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2022 Lincoln Nautilus Reserve | AWD | Incoming Unit | Heated Seats/Wheel",
+      "vin": "2LMPJ8KP7NBL19325",
+      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/used/5818be376b6f.html",
+      "year": 2022,
+      "make": "Lincoln",
+      "model": "Nautilus",
+      "condition": "used",
+      "price": 31979.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2022 Lincoln Nautilus Reserve | AWD | Incoming Unit | Heated Seats/Wheel",
+      "vin": "2LMPJ8K93NBL16522",
+      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/used/7848f70b7d7c.html",
+      "year": 2022,
+      "make": "Lincoln",
+      "model": "Nautilus",
+      "condition": "used",
+      "price": 35899.0,
       "price_currency": "CAD"
     },
     {
@@ -1008,25 +1110,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2022 Volkswagen Atlas Highline | AWD | 7 Seater | Heated/Cooled Seats",
-      "vin": "1V2BR2CA8NC538285",
-      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/used/6e00ca039714.html",
+      "name": "2022 Volkswagen Tiguan Highline | R-Line | AWD | Heated/Cooled Seats",
+      "vin": "3VV4B7AX4NM101385",
+      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/used/d51c9d9f2dde.html",
       "year": 2022,
       "make": "Volkswagen",
-      "model": "Atlas",
+      "model": "Tiguan",
       "condition": "used",
-      "price": 29995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Chevrolet Malibu Sedan ",
-      "vin": "1G1ZD5ST6PF168371",
-      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/used/4703f61a84a2.html",
-      "year": 2023,
-      "make": "Chevrolet",
-      "model": "Malibu Sedan",
-      "condition": "used",
-      "price": 23995.0,
+      "price": 30795.0,
       "price_currency": "CAD"
     },
     {
@@ -1037,18 +1128,7 @@
       "make": "Ford",
       "model": "Bronco Sport",
       "condition": "used",
-      "price": 34296.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Ford Bronco Badlands | 4X4 | 2 Door | Incoming Unit | 360 Cam",
-      "vin": "1FMDE5CH0PLB76729",
-      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/used/b93007779d4e.html",
-      "year": 2023,
-      "make": "Ford",
-      "model": "Bronco",
-      "condition": "used",
-      "price": 49699.0,
+      "price": 32999.0,
       "price_currency": "CAD"
     },
     {
@@ -1082,17 +1162,6 @@
       "model": "F-150",
       "condition": "used",
       "price": 40699.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Ford F-150 XLT | 157 | 301A | Keyless Entry | Backup Camera",
-      "vin": "1FTFW1E88PKD74979",
-      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/used/04cb1705ae49.html",
-      "year": 2023,
-      "make": "Ford",
-      "model": "F-150",
-      "condition": "used",
-      "price": 44555.0,
       "price_currency": "CAD"
     },
     {
@@ -1140,17 +1209,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Ford F-150 XLT | 145 | 302A | Heated Seats | Remote Start",
-      "vin": "1FTEW1EP3PKF13841",
-      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/used/63b633521fd5.html",
-      "year": 2023,
-      "make": "Ford",
-      "model": "F-150",
-      "condition": "used",
-      "price": 47090.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2023 Ford F-150 Lariat | 157 | 502A | HYBRID | Heated Seats",
       "vin": "1FTFW1ED8PFB05564",
       "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/used/6c517f32a170.html",
@@ -1181,28 +1239,6 @@
       "model": "F-150",
       "condition": "used",
       "price": 56995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Ford F-150 Tremor | 145 | 401A | Heated Seats | Backup Camera",
-      "vin": "1FTEW1E86PFC12112",
-      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/used/ef52967038b2.html",
-      "year": 2023,
-      "make": "Ford",
-      "model": "F-150",
-      "condition": "used",
-      "price": 59199.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Ford F-150 XLT | 157 | 302A | 360 Camera | Tailgate Step",
-      "vin": "1FTFW1E50PKF05926",
-      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/used/e870a89e2e7d.html",
-      "year": 2023,
-      "make": "Ford",
-      "model": "F-150",
-      "condition": "used",
-      "price": 48195.0,
       "price_currency": "CAD"
     },
     {
@@ -1239,17 +1275,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Ford F-150 XLT | 157 | 302A | Remote Start | 360 Camera",
-      "vin": "1FTFW1E83PKF16137",
-      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/used/d39d1bfc09f2.html",
-      "year": 2023,
-      "make": "Ford",
-      "model": "F-150",
-      "condition": "used",
-      "price": 45899.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2023 Ford F-150 Lariat | 145 | 502A | Heated/Cooled Seats | NAV",
       "vin": "1FTEW1EP2PKE85420",
       "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/used/9ad432eafc82.html",
@@ -1283,6 +1308,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2023 Ford F-150 LARIAT | Incoming Unit",
+      "vin": "1FTEW1EP8PFC51405",
+      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/used/311be479b9ee.html",
+      "year": 2023,
+      "make": "Ford",
+      "model": "F-150",
+      "condition": "used",
+      "price": 55997.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2023 Ford F-150 Lariat | 157 | 502A | Incoming Unit | 360 Camera",
       "vin": "1FTFW1E59PFC50668",
       "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/used/4937c386c6d5.html",
@@ -1303,6 +1339,28 @@
       "condition": "used"
     },
     {
+      "name": "2023 Ford F-150 XLT | 157 | 301A | Remote Start | Backup Camera",
+      "vin": "1FTFW1E5XPKD32237",
+      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/used/0099963daadd.html",
+      "year": 2023,
+      "make": "Ford",
+      "model": "F-150",
+      "condition": "used",
+      "price": 44877.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2023 Ford F-350 Super Duty Lariat | 176 | Diesel | Moonroof | 360 Camera",
+      "vin": "1FT8W3BTXPED27321",
+      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/used/531ba3641f38.html",
+      "year": 2023,
+      "make": "Ford",
+      "model": "F-350",
+      "condition": "used",
+      "price": 84995.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2023 Ford Mustang Mach-E Premium | AWD | Electric | Panoramic Roof | NAV",
       "vin": "3FMTK3SS0PMA38449",
       "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/used/d9b05966e5b2.html",
@@ -1310,18 +1368,7 @@
       "make": "Ford",
       "model": "Mustang Mach-E",
       "condition": "used",
-      "price": 33999.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Ford Ranger XLT | 126 | 300A | Backup Camera | Remote Start",
-      "vin": "1FTER4FH4PLE04203",
-      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/used/698e536c68d6.html",
-      "year": 2023,
-      "make": "Ford",
-      "model": "Ranger",
-      "condition": "used",
-      "price": 41795.0,
+      "price": 31999.0,
       "price_currency": "CAD"
     },
     {
@@ -1347,36 +1394,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 GMC Sierra 2500HD AT4 | DIESEL | Heated/Cooled Seats | Bedliner",
+      "name": "2023 GMC Sierra 2500HD Crew Cab AT4 | DIESEL | Heated/Cooled Seats | Bedliner",
       "vin": "1GT49PEY1PF123652",
-      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/used/34ff954d1e8b.html",
+      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/used/346b03d8091a.html",
       "year": 2023,
       "make": "GMC",
       "model": "Sierra 2500HD",
       "condition": "used",
-      "price": 64995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Mitsubishi Outlander SE | AWD | 7 Seater | Heated Seats/Wheel",
-      "vin": "JA4J4UA82PZ621616",
-      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/used/98131bed2211.html",
-      "year": 2023,
-      "make": "Mitsubishi",
-      "model": "Outlander",
-      "condition": "used",
-      "price": 28288.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Nissan Murano Platinum | AWD | Heated Seats/Wheel | NAV",
-      "vin": "5N1AZ2DS6PC127499",
-      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/used/0f12fe4f646e.html",
-      "year": 2023,
-      "make": "Nissan",
-      "model": "Murano",
-      "condition": "used",
-      "price": 31395.0,
+      "price": 64599.0,
       "price_currency": "CAD"
     },
     {
@@ -1387,7 +1412,7 @@
       "make": "Nissan",
       "model": "Murano",
       "condition": "used",
-      "price": 28999.0,
+      "price": 27899.0,
       "price_currency": "CAD"
     },
     {
@@ -1413,25 +1438,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Toyota Tacoma TRD | 4WD | Heated Seats | Navigation",
+      "name": "2023 Toyota Tacoma Access Cab TRD | 4WD | Heated Seats | Navigation",
       "vin": "3TYSZ5ANXPT110779",
-      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/used/7cb5b5e5d17e.html",
+      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/used/b9af3a0387d2.html",
       "year": 2023,
       "make": "Toyota",
       "model": "Tacoma",
       "condition": "used",
-      "price": 46799.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Ford Bronco Sport Heritage | 4X4 | Moonroof | Heated Seats | NAV",
-      "vin": "3FMCR9G6XRRF60313",
-      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/used/3fd7f497e8c5.html",
-      "year": 2024,
-      "make": "Ford",
-      "model": "Bronco Sport",
-      "condition": "used",
-      "price": 34995.0,
+      "price": 45595.0,
       "price_currency": "CAD"
     },
     {
@@ -1457,25 +1471,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Ford F-150 Lightning Flash | Extended Range | Incoming Unit | 360 Cam",
-      "vin": "1FT6W3L72RWG18188",
-      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/used/9cc410c95b8d.html",
+      "name": "2024 Ford F-150 Lightning XLT | 145 | 311A | Electric | Heated Seats",
+      "vin": "1FTVW3LKXRWG32954",
+      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/used/0537d822a1f8.html",
       "year": 2024,
       "make": "Ford",
       "model": "F-150 Lightning",
       "condition": "used",
-      "price": 67858.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Ford F-150 Lightning Flash | 145 | Extended Range | Incoming Unit",
-      "vin": "1FTVW3L7XRWG02932",
-      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/used/ab73dc72e786.html",
-      "year": 2024,
-      "make": "Ford",
-      "model": "F-150 Lightning",
-      "condition": "used",
-      "price": 71858.0,
+      "price": 59999.0,
       "price_currency": "CAD"
     },
     {
@@ -1490,17 +1493,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Ford F-150 XLT | 145 | 303A | Hybrid | Bedliner | Nav",
-      "vin": "1FTFW3LD2RFB41977",
-      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/used/a87b6b4b1f67.html",
-      "year": 2024,
-      "make": "Ford",
-      "model": "F-150",
-      "condition": "used",
-      "price": 52999.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2024 Ford F-150 XLT | 157 | 301A | Bedliner | Backup Camera",
       "vin": "1FTFW3L80RKD77912",
       "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/used/e404aec4cab3.html",
@@ -1509,17 +1501,6 @@
       "model": "F-150",
       "condition": "used",
       "price": 47999.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Ford F-150 XLT | 145 | 302A | Heated Seats | Remote Start",
-      "vin": "1FTFW3L8XRKE13573",
-      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/used/9d9809b9e606.html",
-      "year": 2024,
-      "make": "Ford",
-      "model": "F-150",
-      "condition": "used",
-      "price": 55495.0,
       "price_currency": "CAD"
     },
     {
@@ -1552,7 +1533,7 @@
       "make": "Ford",
       "model": "F-150",
       "condition": "used",
-      "price": 34999.0,
+      "price": 33795.0,
       "price_currency": "CAD"
     },
     {
@@ -1563,7 +1544,7 @@
       "make": "Ford",
       "model": "F-150",
       "condition": "used",
-      "price": 46499.0,
+      "price": 45695.0,
       "price_currency": "CAD"
     },
     {
@@ -1607,29 +1588,7 @@
       "make": "Ford",
       "model": "F-150",
       "condition": "used",
-      "price": 63499.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Ford F-150 XLT | 157 | 302A | 360 Camera | Heated Seats",
-      "vin": "1FTFW3L80RFB05272",
-      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/used/8e2f88306748.html",
-      "year": 2024,
-      "make": "Ford",
-      "model": "F-150",
-      "condition": "used",
-      "price": 52969.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Ford F-150 Raptor | 145 | 801A | 360 Camera | Heated Seats",
-      "vin": "1FTFW1RG6RFB50221",
-      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/used/19048c3a367c.html",
-      "year": 2024,
-      "make": "Ford",
-      "model": "F-150",
-      "condition": "used",
-      "price": 93599.0,
+      "price": 61899.0,
       "price_currency": "CAD"
     },
     {
@@ -1655,14 +1614,69 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Ford Maverick XLT | AWD | 300A | Heated Seats/Wheel | Backup Cam",
-      "vin": "3FTTW8J98RRB16471",
-      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/used/dd012951f793.html",
+      "name": "2024 Ford F-150 XLT | 145 | 301A | 360 Camera | Bedliner",
+      "vin": "1FTFX3L84RKE40443",
+      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/used/54ac20a2d562.html",
       "year": 2024,
       "make": "Ford",
-      "model": "Maverick",
+      "model": "F-150",
       "condition": "used",
-      "price": 35957.0,
+      "price": 36947.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2024 Ford F-150 STX | 145 | 200A | Remote Keyless Entry",
+      "vin": "1FTEW2LP4RKF26139",
+      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/used/3a2f5610a57e.html",
+      "year": 2024,
+      "make": "Ford",
+      "model": "F-150",
+      "condition": "used",
+      "price": 44995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2024 Ford F-150 STX | 145 | 200A | Remote Keyless Entry | Rear Cam",
+      "vin": "1FTEW2LP6RKD36374",
+      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/used/03e72314a25f.html",
+      "year": 2024,
+      "make": "Ford",
+      "model": "F-150",
+      "condition": "used",
+      "price": 46989.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2024 Ford F-350 Super Duty Platinum | 176 | Diesel | Heated/Cooled Seats",
+      "vin": "1FT8W3BM1REC26616",
+      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/used/88e282ea1a32.html",
+      "year": 2024,
+      "make": "Ford",
+      "model": "F-350",
+      "condition": "used",
+      "price": 79799.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2024 GMC Sierra 2500HD Crew Cab AT4 | Diesel | Heated/Cooled Seats | Remote Start",
+      "vin": "1GT49PEY1RF242739",
+      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/used/4a5b813a787f.html",
+      "year": 2024,
+      "make": "GMC",
+      "model": "Sierra 2500HD",
+      "condition": "used",
+      "price": 83899.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2024 Honda CR-V Sport | AWD | Heated Seats/Wheel | Backup Camera",
+      "vin": "2HKRS4H52RH108662",
+      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/used/007b6aaf3eaf.html",
+      "year": 2024,
+      "make": "Honda",
+      "model": "CR-V",
+      "condition": "used",
+      "price": 36979.0,
       "price_currency": "CAD"
     },
     {
@@ -1688,14 +1702,36 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Ford Bronco Sport ",
+      "name": "2024 Toyota Tundra Limited | Heated/Cooled Seats | Moonroof | Nav",
+      "vin": "5TFWA5EC7RX032102",
+      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/used/4d6674356289.html",
+      "year": 2024,
+      "make": "Toyota",
+      "model": "Tundra",
+      "condition": "used",
+      "price": 53559.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2025 Ford Bronco Sport Big Bend | 4WD | Heated Seats | Backup Camera",
       "vin": "3FMCR9BN3SRE16171",
-      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/used/988e11754386.html",
+      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/used/01bc86622641.html",
       "year": 2025,
       "make": "Ford",
       "model": "Bronco Sport",
       "condition": "used",
-      "price": 32899.0,
+      "price": 31997.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2025 Ford Bronco Sport Big Bend | 4X4 | Backup Camera | Block Heater",
+      "vin": "3FMCR9BN7SRE32759",
+      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/used/139aa7c7bf32.html",
+      "year": 2025,
+      "make": "Ford",
+      "model": "Bronco Sport",
+      "condition": "used",
+      "price": 29488.0,
       "price_currency": "CAD"
     },
     {
@@ -1707,17 +1743,6 @@
       "model": "Escape",
       "condition": "used",
       "price": 29857.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Ford Escape Active | AWD | Heated Seats/Wheel | Backup Camera",
-      "vin": "1FMCU9GN1SUB25152",
-      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/used/c16f0e19e9f5.html",
-      "year": 2025,
-      "make": "Ford",
-      "model": "Escape",
-      "condition": "used",
-      "price": 29799.0,
       "price_currency": "CAD"
     },
     {
@@ -1743,6 +1768,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2025 Ford Escape Active | AWD | Heated Seats/Wheel | Remote Start",
+      "vin": "1FMCU9GN3SUB24651",
+      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/used/4aecf79ceebe.html",
+      "year": 2025,
+      "make": "Ford",
+      "model": "Escape",
+      "condition": "used",
+      "price": 26899.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2025 Ford Explorer Active | 4WD | 6 Seater | Heated Seats/Wheel",
       "vin": "1FMUK8DH3SGA58832",
       "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/used/810e3a70d86e.html",
@@ -1751,17 +1787,6 @@
       "model": "Explorer",
       "condition": "used",
       "price": 47799.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Ford Explorer Active | 4WD | 6 Seater | Heated Seats/Wheel",
-      "vin": "1FMUK8DH8SGA59328",
-      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/used/f2536ccc6e70.html",
-      "year": 2025,
-      "make": "Ford",
-      "model": "Explorer",
-      "condition": "used",
-      "price": 45957.0,
       "price_currency": "CAD"
     },
     {
@@ -1787,14 +1812,25 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Ford F-350 Super Duty XL | 176 | Diesel | Remote Keyless Entry",
-      "vin": "1FT8W3BT8SEC33253",
-      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/used/90fabf1982ea.html",
+      "name": "2025 Ford F-150 Lariat | 157 | 501A | Heated/Cooled Seats | NAV",
+      "vin": "1FTFW5L59SKE33255",
+      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/used/291562bdc15e.html",
+      "year": 2025,
+      "make": "Ford",
+      "model": "F-150",
+      "condition": "used",
+      "price": 69995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2025 Ford F-350 Super Duty Lariat | 160 | Diesel | Heated/Cooled Seats | NAV",
+      "vin": "1FT8W3BT4SEC81414",
+      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/used/fc636b1eae37.html",
       "year": 2025,
       "make": "Ford",
       "model": "F-350",
       "condition": "used",
-      "price": 67597.0,
+      "price": 88477.0,
       "price_currency": "CAD"
     },
     {
@@ -1820,39 +1856,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Hyundai Tucson Preferred | AWD | Heated Seats/Wheel | Backup Cam",
-      "vin": "3KMJBCDE9SE024195",
-      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/used/9e028cc466de.html",
-      "year": 2025,
-      "make": "Hyundai",
-      "model": "Tucson",
-      "condition": "used",
-      "price": 30699.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Kia Sportage EX | AWD | Heated Seats/Wheel | Navigation",
-      "vin": "KNDPVCDF0S7379530",
-      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/used/9f89f608366a.html",
-      "year": 2025,
-      "make": "Kia",
-      "model": "Sportage",
-      "condition": "used",
-      "price": 34999.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Mazda CX-50 GT | AWD | Heads-Up | NAV | 360 Camera",
-      "vin": "7MMVABDM0SN322011",
-      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/used/7401eae8072c.html",
-      "year": 2025,
-      "make": "Mazda",
-      "model": "CX-50",
-      "condition": "used",
-      "price": 41899.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2025 RAM 1500 Limited | 4X4 | Heated/Cooled Seats | Backup Cam",
       "vin": "1C6SRFHP8SN613242",
       "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/used/b7c47adc33de.html",
@@ -1875,14 +1878,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Ford F-150 Tremor | 145 | 402A | DEMO",
-      "vin": "1FTFW4L8XTFA61813",
-      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/used/80ff9223674a.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "F-150",
+      "name": "2025 Toyota RAV4 LE | AWD | Heated Seats | Backup Camera",
+      "vin": "2T3B1RFV0SC548545",
+      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/used/f0f4931d717a.html",
+      "year": 2025,
+      "make": "Toyota",
+      "model": "RAV4",
       "condition": "used",
-      "price": 79399.0,
+      "price": 38877.0,
       "price_currency": "CAD"
     },
     {
@@ -1897,25 +1900,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Ford F-250 Super Duty ",
+      "name": "2026 Ford F-250 Super Duty XLT | 160 | Remote Keyless Entry | Backup Camera",
       "vin": "1FT7W2BNXTED82871",
-      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/used/49e4a7a695a7.html",
+      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/used/aec2d4fe40c9.html",
       "year": 2026,
       "make": "Ford",
       "model": "F-250",
       "condition": "used",
-      "price": 69995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Ford Mustang EcoBoost Premium | RWD | Backup Camera | Nav",
-      "vin": "1FA6P8THXT5112713",
-      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/used/e88994cb204e.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "Mustang",
-      "condition": "used",
-      "price": 36957.0,
+      "price": 69688.0,
       "price_currency": "CAD"
     },
     {
