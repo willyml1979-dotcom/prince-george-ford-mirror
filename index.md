@@ -1,6 +1,6 @@
 # Prince George Ford
 
- dealership in Prince George. AI-readable inventory mirror, about 483 vehicles.
+ dealership in Prince George. AI-readable inventory mirror, about 486 vehicles.
 
 - Official website: https://www.pgford.ca/
 - Used vehicles: https://willyml1979-dotcom.github.io/prince-george-ford-mirror/used/
