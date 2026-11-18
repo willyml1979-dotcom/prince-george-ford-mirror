@@ -1,7 +1,7 @@
 {
   "dealership": "Prince George Ford",
-  "generated_at": "2026-11-18T11:18:54",
-  "vehicle_count": 482,
+  "generated_at": "2026-11-18T11:25:55",
+  "vehicle_count": 477,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -2610,17 +2610,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Ford F-150 LARIAT | 157 | 502A | Pro Access Tailgate | NAV",
-      "vin": "1FTFW5L83TFB39810",
-      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/new/2899b772c7a3.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "F-150",
-      "condition": "new",
-      "price": 87268.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Ford F-150 XLT | 145 | 302A | Tailgate Step | Backup Camera",
       "vin": "1FTFW3L81TKE40149",
       "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/new/ebf151a6caca.html",
@@ -2819,17 +2808,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Ford F-150 XLT | 301A | 157 | Backup Camera | Bedliner",
-      "vin": "1FTFW3L89TKE62156",
-      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/new/1ef42147c970.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "F-150",
-      "condition": "new",
-      "price": 66828.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Ford F-150 Tremor | 145 | 402A | Pro Access Tailgate",
       "vin": "1FTFW4L82TFB64305",
       "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/new/e2456c74db5a.html",
@@ -2870,7 +2848,7 @@
       "make": "Ford",
       "model": "F-150",
       "condition": "new",
-      "price": 68613.0,
+      "price": 71613.0,
       "price_currency": "CAD"
     },
     {
@@ -2881,7 +2859,7 @@
       "make": "Ford",
       "model": "F-150",
       "condition": "new",
-      "price": 69413.0,
+      "price": 72413.0,
       "price_currency": "CAD"
     },
     {
@@ -2892,7 +2870,7 @@
       "make": "Ford",
       "model": "F-150",
       "condition": "new",
-      "price": 70038.0,
+      "price": 73038.0,
       "price_currency": "CAD"
     },
     {
@@ -2903,7 +2881,7 @@
       "make": "Ford",
       "model": "F-150",
       "condition": "new",
-      "price": 84243.0,
+      "price": 87243.0,
       "price_currency": "CAD"
     },
     {
@@ -2925,7 +2903,7 @@
       "make": "Ford",
       "model": "F-150",
       "condition": "new",
-      "price": 86013.0,
+      "price": 89013.0,
       "price_currency": "CAD"
     },
     {
@@ -2936,7 +2914,7 @@
       "make": "Ford",
       "model": "F-150",
       "condition": "new",
-      "price": 69213.0,
+      "price": 72213.0,
       "price_currency": "CAD"
     },
     {
@@ -2947,7 +2925,7 @@
       "make": "Ford",
       "model": "F-150",
       "condition": "new",
-      "price": 74358.0,
+      "price": 77358.0,
       "price_currency": "CAD"
     },
     {
@@ -2958,7 +2936,7 @@
       "make": "Ford",
       "model": "F-150",
       "condition": "new",
-      "price": 74358.0,
+      "price": 77358.0,
       "price_currency": "CAD"
     },
     {
@@ -2980,7 +2958,7 @@
       "make": "Ford",
       "model": "F-150",
       "condition": "new",
-      "price": 58998.0,
+      "price": 61998.0,
       "price_currency": "CAD"
     },
     {
@@ -2991,7 +2969,7 @@
       "make": "Ford",
       "model": "F-150",
       "condition": "new",
-      "price": 87948.0,
+      "price": 90948.0,
       "price_currency": "CAD"
     },
     {
@@ -3002,7 +2980,7 @@
       "make": "Ford",
       "model": "F-150",
       "condition": "new",
-      "price": 84963.0,
+      "price": 87963.0,
       "price_currency": "CAD"
     },
     {
@@ -3013,7 +2991,7 @@
       "make": "Ford",
       "model": "F-150",
       "condition": "new",
-      "price": 84963.0,
+      "price": 87963.0,
       "price_currency": "CAD"
     },
     {
@@ -3024,7 +3002,7 @@
       "make": "Ford",
       "model": "F-150",
       "condition": "new",
-      "price": 58998.0,
+      "price": 61998.0,
       "price_currency": "CAD"
     },
     {
@@ -3212,17 +3190,6 @@
       "model": "F-150",
       "condition": "new",
       "price": 86578.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Ford F-150 Tremor | 145 | 402A | Pro Access Tailgate | NAV",
-      "vin": "1FTFW4L80TFC26400",
-      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/new/9d4ec15b3de2.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "F-150",
-      "condition": "new",
-      "price": 86953.0,
       "price_currency": "CAD"
     },
     {
@@ -4106,17 +4073,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Ford Transit Cargo Van T-350 | High Roof | AWD | Remote Start | NAV",
-      "vin": "1FTBW3UG8TKA74341",
-      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/new/730d615dbdbe.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "Transit Cargo",
-      "condition": "new",
-      "price": 77715.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2027 Ford Bronco Sport Big Bend | 4X4 | 200A | Remote Start | Backup Cam",
       "vin": "3FMCR9BN8VRE04196",
       "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/new/e929dc01303b.html",
@@ -4378,17 +4334,6 @@
       "model": "Explorer",
       "condition": "new",
       "price": 66003.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Ford Explorer Tremor | 4WD | 6 Seater | Heated/Cooled Seats",
-      "vin": "1FMUK8JH1VGA35140",
-      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/new/83f6faed27f0.html",
-      "year": 2027,
-      "make": "Ford",
-      "model": "Explorer",
-      "condition": "new",
-      "price": 66203.0,
       "price_currency": "CAD"
     },
     {
