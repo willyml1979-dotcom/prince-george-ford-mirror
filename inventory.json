@@ -1,22 +1,10 @@
 {
   "dealership": "Prince George Ford",
-  "generated_at": "2026-11-17T12:06:23",
-  "vehicle_count": 480,
+  "generated_at": "2026-11-18T02:26:29",
+  "vehicle_count": 483,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
-    {
-      "name": "Vehicles in Prince George",
-      "vin": "1FTBW2X87SKB00084",
-      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/used/de4f7316d141.html",
-      "condition": "used"
-    },
-    {
-      "name": "Vehicles in Prince George",
-      "vin": "1FTBW2X87SKB00084",
-      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/used/b0ca7e183865.html",
-      "condition": "used"
-    },
     {
       "name": "2006 Land Rover LR3 SE | 4WD | Tow Off The Lot | Heated Seats",
       "vin": "SALAE25486A365986",
@@ -91,7 +79,7 @@
       "make": "Nissan",
       "model": "Rogue",
       "condition": "used",
-      "price": 6111.0,
+      "price": 4911.0,
       "price_currency": "CAD"
     },
     {
@@ -124,7 +112,7 @@
       "make": "Chevrolet",
       "model": "Spark",
       "condition": "used",
-      "price": 8411.0,
+      "price": 6411.0,
       "price_currency": "CAD"
     },
     {
@@ -135,7 +123,7 @@
       "make": "Dodge",
       "model": "Grand Caravan",
       "condition": "used",
-      "price": 4111.0,
+      "price": 2811.0,
       "price_currency": "CAD"
     },
     {
@@ -236,6 +224,15 @@
       "condition": "used",
       "price": 15599.0,
       "price_currency": "CAD"
+    },
+    {
+      "name": "2016 Toyota RAV4 SE",
+      "vin": "2T3JFREV2GW438472",
+      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/used/bdf2654cbf13.html",
+      "year": 2016,
+      "make": "Toyota",
+      "model": "RAV4",
+      "condition": "used"
     },
     {
       "name": "2017 Ford Explorer Sport | 4WD | 6 Seater | Tow Off The Lot",
@@ -661,6 +658,15 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2021 Ford Bronco",
+      "vin": "1FMDE5BH3MLA84642",
+      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/used/6d1a839004ba.html",
+      "year": 2021,
+      "make": "Ford",
+      "model": "Bronco",
+      "condition": "used"
+    },
+    {
       "name": "2021 Ford Escape Titanium | AWD | Heated Seats | Remote Start | NAV",
       "vin": "1FMCU9J9XMUA55925",
       "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/used/83d4ac63e44b.html",
@@ -690,7 +696,7 @@
       "make": "Ford",
       "model": "Expedition",
       "condition": "used",
-      "price": 54788.0,
+      "price": 53795.0,
       "price_currency": "CAD"
     },
     {
@@ -791,6 +797,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2021 Ford F-350 Super Duty Lariat | 176 | Diesel | Moonroof | Heated Seats",
+      "vin": "1FT8W3BT6MEC28541",
+      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/used/2cbbee85ee10.html",
+      "year": 2021,
+      "make": "Ford",
+      "model": "F-350",
+      "condition": "used",
+      "price": 66995.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2021 GMC Canyon AT4 | 4X4 | Heated Seats/Wheel | Remote Start",
       "vin": "1GTG6FEN0M1277638",
       "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/used/b5b14e6fc0a5.html",
@@ -842,7 +859,7 @@
       "make": "Chrysler",
       "model": "Grand Caravan",
       "condition": "used",
-      "price": 26944.0,
+      "price": 25895.0,
       "price_currency": "CAD"
     },
     {
@@ -901,14 +918,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2022 Ford F-150 Lariat | 157 | 502A | Incoming Unit | 360 Camera",
+      "name": "2022 Ford F-150 Lariat | 157 | 502A | 360 Camera",
       "vin": "1FTFW1E80NKE41328",
       "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/used/3d25e2a44ad8.html",
       "year": 2022,
       "make": "Ford",
       "model": "F-150",
       "condition": "used",
-      "price": 49899.0,
+      "price": 48899.0,
       "price_currency": "CAD"
     },
     {
@@ -1106,7 +1123,7 @@
       "make": "RAM",
       "model": "1500 Classic",
       "condition": "used",
-      "price": 34699.0,
+      "price": 34599.0,
       "price_currency": "CAD"
     },
     {
@@ -1161,7 +1178,7 @@
       "make": "Ford",
       "model": "F-150",
       "condition": "used",
-      "price": 40699.0,
+      "price": 39895.0,
       "price_currency": "CAD"
     },
     {
@@ -1297,14 +1314,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Ford F-150 XLT | 145 | 300A | Incoming Unit | A/C",
+      "name": "2023 Ford F-150 XLT | 145 | 300A |Remote Keyless Entry | A/C",
       "vin": "1FTEW1EP8PFC40811",
       "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/used/56d298a4af65.html",
       "year": 2023,
       "make": "Ford",
       "model": "F-150",
       "condition": "used",
-      "price": 42857.0,
+      "price": 41895.0,
       "price_currency": "CAD"
     },
     {
@@ -1423,8 +1440,17 @@
       "make": "RAM",
       "model": "1500 Classic",
       "condition": "used",
-      "price": 43699.0,
+      "price": 42595.0,
       "price_currency": "CAD"
+    },
+    {
+      "name": "2023 RAM 1500 Sport | Heated Seats/Wheel | Backup Camera",
+      "vin": "1C6SRFTT7PN668339",
+      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/used/6e60cba06151.html",
+      "year": 2023,
+      "make": "RAM",
+      "model": "1500",
+      "condition": "used"
     },
     {
       "name": "2023 RAM 3500 Limited | Diesel | Heated/Cooled Seats | 360 Cam",
@@ -1469,6 +1495,15 @@
       "condition": "used",
       "price": 29859.0,
       "price_currency": "CAD"
+    },
+    {
+      "name": "2024 Ford Escape ST-Line Elite",
+      "vin": "1FMCU9PA7RUA31526",
+      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/used/dd57fafaadcb.html",
+      "year": 2024,
+      "make": "Ford",
+      "model": "Escape",
+      "condition": "used"
     },
     {
       "name": "2024 Ford F-150 Lightning XLT | 145 | 311A | Electric | Heated Seats",
@@ -1603,14 +1638,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Ford F-150 ",
+      "name": "2024 Ford F-150 Tremor | 145 | 401A | Heated Seats | Backup Camera",
       "vin": "1FTFW4L8XRFB65629",
       "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/used/a68c50809d34.html",
       "year": 2024,
       "make": "Ford",
       "model": "F-150",
       "condition": "used",
-      "price": 62999.0,
+      "price": 60377.0,
       "price_currency": "CAD"
     },
     {
@@ -1687,7 +1722,7 @@
       "make": "Lincoln",
       "model": "Navigator",
       "condition": "used",
-      "price": 89997.0,
+      "price": 88898.0,
       "price_currency": "CAD"
     },
     {
@@ -1742,7 +1777,7 @@
       "make": "Ford",
       "model": "Escape",
       "condition": "used",
-      "price": 29857.0,
+      "price": 28495.0,
       "price_currency": "CAD"
     },
     {
@@ -1863,7 +1898,7 @@
       "make": "RAM",
       "model": "1500",
       "condition": "used",
-      "price": 69699.0,
+      "price": 66999.0,
       "price_currency": "CAD"
     },
     {
@@ -1874,7 +1909,7 @@
       "make": "RAM",
       "model": "1500",
       "condition": "used",
-      "price": 64094.0,
+      "price": 61499.0,
       "price_currency": "CAD"
     },
     {
