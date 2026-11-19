@@ -1,7 +1,7 @@
 {
   "dealership": "Prince George Ford",
-  "generated_at": "2026-11-18T21:51:01",
-  "vehicle_count": 484,
+  "generated_at": "2026-11-18T21:57:24",
+  "vehicle_count": 483,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -3078,7 +3078,7 @@
       "make": "Ford",
       "model": "F-150",
       "condition": "new",
-      "price": 84393.0,
+      "price": 87393.0,
       "price_currency": "CAD"
     },
     {
@@ -3089,7 +3089,7 @@
       "make": "Ford",
       "model": "F-150",
       "condition": "new",
-      "price": 53993.0,
+      "price": 56993.0,
       "price_currency": "CAD"
     },
     {
@@ -3100,7 +3100,7 @@
       "make": "Ford",
       "model": "F-150",
       "condition": "new",
-      "price": 65188.0,
+      "price": 68188.0,
       "price_currency": "CAD"
     },
     {
@@ -3111,7 +3111,7 @@
       "make": "Ford",
       "model": "F-150",
       "condition": "new",
-      "price": 55868.0,
+      "price": 58868.0,
       "price_currency": "CAD"
     },
     {
@@ -3122,7 +3122,7 @@
       "make": "Ford",
       "model": "F-150",
       "condition": "new",
-      "price": 65188.0,
+      "price": 68188.0,
       "price_currency": "CAD"
     },
     {
@@ -3133,7 +3133,7 @@
       "make": "Ford",
       "model": "F-150",
       "condition": "new",
-      "price": 80064.0,
+      "price": 79373.0,
       "price_currency": "CAD"
     },
     {
@@ -3144,7 +3144,7 @@
       "make": "Ford",
       "model": "F-150",
       "condition": "new",
-      "price": 72153.0,
+      "price": 75153.0,
       "price_currency": "CAD"
     },
     {
@@ -3155,7 +3155,7 @@
       "make": "Ford",
       "model": "F-150",
       "condition": "new",
-      "price": 65188.0,
+      "price": 68188.0,
       "price_currency": "CAD"
     },
     {
@@ -3166,7 +3166,7 @@
       "make": "Ford",
       "model": "F-150",
       "condition": "new",
-      "price": 59598.0,
+      "price": 62598.0,
       "price_currency": "CAD"
     },
     {
@@ -3177,7 +3177,7 @@
       "make": "Ford",
       "model": "F-150",
       "condition": "new",
-      "price": 78599.0,
+      "price": 77718.0,
       "price_currency": "CAD"
     },
     {
@@ -3188,7 +3188,7 @@
       "make": "Ford",
       "model": "F-150",
       "condition": "new",
-      "price": 69773.0,
+      "price": 72773.0,
       "price_currency": "CAD"
     },
     {
@@ -3199,7 +3199,7 @@
       "make": "Ford",
       "model": "F-150",
       "condition": "new",
-      "price": 65908.0,
+      "price": 64908.0,
       "price_currency": "CAD"
     },
     {
@@ -3210,7 +3210,7 @@
       "make": "Ford",
       "model": "F-150",
       "condition": "new",
-      "price": 70398.0,
+      "price": 73398.0,
       "price_currency": "CAD"
     },
     {
@@ -3221,7 +3221,7 @@
       "make": "Ford",
       "model": "F-150",
       "condition": "new",
-      "price": 70398.0,
+      "price": 73398.0,
       "price_currency": "CAD"
     },
     {
@@ -3232,7 +3232,7 @@
       "make": "Ford",
       "model": "F-150",
       "condition": "new",
-      "price": 58998.0,
+      "price": 61998.0,
       "price_currency": "CAD"
     },
     {
@@ -3662,17 +3662,6 @@
       "model": "F-350",
       "condition": "new",
       "price": 111971.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Ford F-350 Super Duty Lariat",
-      "vin": "1FT8W3BTXTEE02884",
-      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/new/cecab64f90b0.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "F-350",
-      "condition": "new",
-      "price": 119942.0,
       "price_currency": "CAD"
     },
     {
@@ -5282,9 +5271,9 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Ford Transit Cargo Van XL",
+      "name": "2027 Ford Transit Cargo Van XL | AWD | 360 Camera | Remote Start",
       "vin": "1FTBW2C86VKA74572",
-      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/new/9c6441fa32d4.html",
+      "url": "https://willyml1979-dotcom.github.io/prince-george-ford-mirror/new/f6ee4d99b00a.html",
       "year": 2027,
       "make": "Ford",
       "model": "Transit Cargo",
